@@ -1,0 +1,1201 @@
+﻿Date,Customer_ID,Customer_Age,Gender,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,City
+2025-11-24,C0053,61,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Pune
+2025-01-17,C0288,30,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Mumbai
+2025-08-18,C0217,39,Female,Coffee Maker,Home & Kitchen,3,69.99,209.97,Cash,Kochi
+2025-02-22,C0136,69,Female,Wireless Headphones,Electronics,1,59.99,59.99,Online,Bengaluru
+2025-07-13,C0186,54,Female,USB-C Charger,Electronics,3,18.99,56.97,Card,Chennai
+2025-12-05,C0052,42,Female,Hoodie,Clothing,5,44.50,222.50,UPI,Hyderabad
+2025-07-09,C0037,56,Male,Hoodie,Clothing,2,44.50,89.00,Cash,Hyderabad
+2025-08-25,C0029,32,Male,Jeans,Clothing,2,49.99,99.98,UPI,Pune
+2025-05-18,C0330,47,Female,USB-C Charger,Electronics,1,18.99,18.99,Cash,Mumbai
+2025-10-15,C0113,26,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Card,Chennai
+2025-02-26,C0033,42,Female,Bluetooth Speaker,Electronics,3,39.50,118.50,Online,Delhi
+2025-10-11,C0275,66,Female,Coffee Beans,Grocery,3,14.99,44.97,UPI,Bengaluru
+2025-05-31,C0135,50,Male,Running Shoes,Clothing,1,74.00,74.00,Card,Delhi
+2025-11-24,C0277,67,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Kochi
+2025-09-08,C0158,33,Female,USB-C Charger,Electronics,3,18.99,56.97,Card,Bengaluru
+2025-09-06,C0282,28,Female,Olive Oil,Grocery,1,12.50,12.50,Online,Mumbai
+2025-10-04,C0344,59,Female,Shampoo,Beauty,2,11.50,23.00,Online,Bengaluru
+2025-05-07,C0302,32,Female,Hoodie,Clothing,1,44.50,44.50,Card,Mumbai
+2025-02-04,C0343,49,Female,Snack Box,Grocery,1,9.99,9.99,Cash,Coimbatore
+2025-05-05,C0221,40,Female,Perfume,Beauty,2,48.00,96.00,Online,Chennai
+2025-12-11,C0056,33,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Hyderabad
+2025-08-05,C0227,69,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Chennai
+2025-11-30,C0122,28,Female,Coffee Beans,Grocery,4,14.99,59.96,Online,Mumbai
+2025-07-25,C0136,68,Male,Olive Oil,Grocery,1,12.50,12.50,UPI,Pune
+2025-12-23,C0030,55,Male,Green Tea,Grocery,1,8.50,8.50,Card,Kochi
+2025-01-30,C0081,21,Male,Smart Watch,Electronics,2,129.00,258.00,Card,Hyderabad
+2025-02-05,C0292,33,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Bengaluru
+2025-08-03,C0161,33,Female,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Cash,Delhi
+2025-08-23,C0289,24,Female,T-Shirt,Clothing,1,19.99,19.99,Cash,Delhi
+2025-03-09,C0081,46,Male,Coffee Beans,Grocery,3,14.99,44.97,UPI,Chennai
+2025-12-08,C0069,34,Female,Snack Box,Grocery,5,9.99,49.95,Card,Hyderabad
+2025-05-20,C0325,34,Male,Jeans,Clothing,2,49.99,99.98,UPI,Chennai
+2025-02-17,C0067,58,Other,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Coimbatore
+2025-10-10,C0354,27,Male,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Hyderabad
+2025-08-09,C0021,40,Female,USB-C Charger,Electronics,1,18.99,18.99,Cash,Bengaluru
+2025-07-01,C0122,28,Other,Perfume,Beauty,5,48.00,240.00,Cash,Pune
+2025-01-13,C0343,65,Male,USB-C Charger,Electronics,3,18.99,56.97,UPI,Hyderabad
+2025-12-26,C0236,40,Female,Wireless Headphones,Electronics,3,59.99,179.97,Cash,Mumbai
+2025-01-13,C0143,40,Male,Perfume,Beauty,1,48.00,48.00,Online,Kochi
+2025-01-15,C0136,20,Female,USB-C Charger,Electronics,1,18.99,18.99,Online,Kochi
+2025-06-10,C0131,20,Male,T-Shirt,Clothing,1,19.99,19.99,Card,Mumbai
+2025-07-06,C0064,64,Male,Hoodie,Clothing,2,44.50,89.00,UPI,Pune
+2025-06-17,C0341,42,Male,Hoodie,Clothing,2,44.50,89.00,Cash,Delhi
+2025-07-27,C0297,56,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Coimbatore
+2025-08-15,C0087,60,Female,Perfume,Beauty,3,48.00,144.00,UPI,Bengaluru
+2025-05-01,C0024,33,Other,Shampoo,Beauty,4,11.50,46.00,Card,Coimbatore
+2025-08-01,C0205,33,Female,Olive Oil,Grocery,2,12.50,25.00,Card,Bengaluru
+2025-08-06,C0063,47,Female,Smart Watch,Electronics,1,129.00,129.00,Online,Kochi
+2025-08-15,C0082,65,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Online,Delhi
+2025-05-07,C0321,33,Female,Snack Box,Grocery,3,9.99,29.97,Card,Delhi
+2025-05-01,C0078,32,Female,Hoodie,Clothing,4,44.50,178.00,Cash,Mumbai
+2025-02-02,C0106,44,Female,Hoodie,Clothing,2,44.50,89.00,Card,Pune
+2025-09-02,C0215,52,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Coimbatore
+2025-04-23,C0348,69,Female,Running Shoes,Clothing,1,74.00,74.00,Cash,Coimbatore
+2025-03-07,C0340,19,Female,Coffee Beans,Grocery,4,14.99,59.96,Online,Hyderabad
+2025-08-25,C0168,39,Male,USB-C Charger,Electronics,1,18.99,18.99,Online,Delhi
+2025-08-04,C0027,40,Female,T-Shirt,Clothing,1,19.99,19.99,Card,Chennai
+2025-01-16,C0123,26,Female,Olive Oil,Grocery,3,12.50,37.50,Card,Mumbai
+2025-08-27,C0059,67,Male,Sunscreen,Beauty,1,15.99,15.99,UPI,Bengaluru
+2025-10-24,C0193,43,Male,USB-C Charger,Electronics,2,18.99,37.98,Cash,Bengaluru
+2025-10-31,C0351,56,Male,Shampoo,Beauty,1,11.50,11.50,Card,Kochi
+2025-09-30,C0007,44,Male,Hoodie,Clothing,1,44.50,44.50,Card,Pune
+2025-07-05,C0268,59,Female,Storage Box,Home & Kitchen,2,12.99,25.98,Online,Coimbatore
+2025-08-12,C0045,35,Male,Snack Box,Grocery,1,9.99,9.99,Cash,Coimbatore
+2025-10-19,C0167,29,Female,Storage Box,Home & Kitchen,1,12.99,12.99,UPI,Delhi
+2025-06-24,C0098,23,Female,Hoodie,Clothing,2,44.50,89.00,Online,Coimbatore
+2025-10-12,C0009,23,Female,Perfume,Beauty,2,48.00,96.00,Online,Mumbai
+2025-06-06,C0218,65,Male,Sunscreen,Beauty,1,15.99,15.99,UPI,Coimbatore
+2025-05-19,C0062,65,Male,Jeans,Clothing,1,49.99,49.99,Cash,Mumbai
+2025-04-21,C0269,56,Female,Sunscreen,Beauty,2,15.99,31.98,Card,Mumbai
+2025-06-01,C0065,35,Female,Jeans,Clothing,1,49.99,49.99,Card,Delhi
+2025-12-24,C0146,48,Female,Green Tea,Grocery,2,8.50,17.00,UPI,Hyderabad
+2025-01-27,C0252,22,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Hyderabad
+2025-03-18,C0286,66,Female,Snack Box,Grocery,1,9.99,9.99,Cash,Pune
+2025-08-19,C0157,54,Male,Snack Box,Grocery,3,9.99,29.97,Card,Mumbai
+2025-11-17,C0039,28,Female,Wireless Headphones,Electronics,2,59.99,119.98,Online,Coimbatore
+2025-05-30,C0233,22,Male,USB-C Charger,Electronics,2,18.99,37.98,UPI,Mumbai
+2025-08-06,C0073,22,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,UPI,Delhi
+2025-08-13,C0257,52,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Chennai
+2025-08-10,C0346,54,Male,Sunscreen,Beauty,1,15.99,15.99,Card,Delhi
+2025-10-23,C0143,29,Other,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Coimbatore
+2025-02-16,C0083,39,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Delhi
+2025-12-06,C0166,25,Other,Coffee Beans,Grocery,1,14.99,14.99,Online,Chennai
+2025-12-03,C0186,57,Male,Green Tea,Grocery,2,8.50,17.00,Online,Chennai
+2025-04-15,C0358,49,Female,Jeans,Clothing,4,49.99,199.96,Cash,Hyderabad
+2025-06-09,C0059,47,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Cash,Coimbatore
+2025-05-30,C0242,33,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Pune
+2025-04-08,C0213,39,Male,Olive Oil,Grocery,3,12.50,37.50,UPI,Chennai
+2025-05-25,C0248,40,Female,Perfume,Beauty,3,48.00,144.00,Online,Coimbatore
+2025-06-14,C0211,20,Female,Olive Oil,Grocery,2,12.50,25.00,Online,Pune
+2025-07-17,C0258,55,Female,Olive Oil,Grocery,3,12.50,37.50,Card,Coimbatore
+2025-02-21,C0336,27,Female,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Kochi
+2025-11-16,C0274,42,Male,Face Moisturizer,Beauty,3,24.99,74.97,Online,Chennai
+2025-11-13,C0223,24,Male,USB-C Charger,Electronics,5,18.99,94.95,Card,Coimbatore
+2025-03-27,C0151,40,Female,Face Moisturizer,Beauty,1,24.99,24.99,Cash,Mumbai
+2025-09-29,C0196,57,Male,Jeans,Clothing,2,49.99,99.98,Online,Hyderabad
+2025-04-29,C0239,36,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Bengaluru
+2025-08-15,C0129,47,Male,Snack Box,Grocery,2,9.99,19.98,Cash,Pune
+2025-09-05,C0359,36,Female,Smart Watch,Electronics,2,129.00,258.00,Online,Delhi
+2025-01-05,C0147,67,Male,Coffee Maker,Home & Kitchen,4,69.99,279.96,UPI,Mumbai
+2025-11-22,C0338,61,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Chennai
+2025-06-08,C0047,36,Female,Face Moisturizer,Beauty,2,24.99,49.98,Online,Hyderabad
+2025-04-13,C0085,34,Male,USB-C Charger,Electronics,2,18.99,37.98,Online,Delhi
+2025-06-23,C0116,61,Male,Green Tea,Grocery,5,8.50,42.50,Online,Kochi
+2025-02-16,C0189,61,Male,Face Moisturizer,Beauty,2,24.99,49.98,UPI,Pune
+2025-11-23,C0318,53,Female,Coffee Beans,Grocery,2,14.99,29.98,Cash,Bengaluru
+2025-11-22,C0024,20,Female,Snack Box,Grocery,3,9.99,29.97,Online,Bengaluru
+2025-02-19,C0357,52,Female,Jeans,Clothing,1,49.99,49.99,Cash,Pune
+2025-12-02,C0144,20,Male,Smart Watch,Electronics,2,129.00,258.00,Cash,Coimbatore
+2025-08-16,C0279,59,Female,Snack Box,Grocery,1,9.99,9.99,Online,Delhi
+2025-04-08,C0328,56,Other,Green Tea,Grocery,1,8.50,8.50,Card,Kochi
+2025-05-05,C0107,55,Female,Olive Oil,Grocery,1,12.50,12.50,Cash,Kochi
+2025-03-17,C0067,52,Female,Face Moisturizer,Beauty,1,24.99,24.99,Cash,Bengaluru
+2025-12-05,C0122,55,Female,Olive Oil,Grocery,1,12.50,12.50,Cash,Delhi
+2025-01-27,C0244,46,Male,Smart Watch,Electronics,2,129.00,258.00,Card,Coimbatore
+2025-09-15,C0338,51,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Chennai
+2025-09-03,C0228,22,Male,Green Tea,Grocery,2,8.50,17.00,UPI,Hyderabad
+2025-02-03,C0151,47,Male,USB-C Charger,Electronics,1,18.99,18.99,Online,Bengaluru
+2025-12-26,C0212,39,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Pune
+2025-02-18,C0079,61,Male,Hoodie,Clothing,2,44.50,89.00,Card,Bengaluru
+2025-02-13,C0067,53,Female,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Bengaluru
+2025-07-30,C0148,56,Female,Running Shoes,Clothing,3,74.00,222.00,Card,Mumbai
+2025-03-21,C0285,41,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,UPI,Mumbai
+2025-08-08,C0356,35,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Delhi
+2025-06-23,C0206,22,Female,Jeans,Clothing,3,49.99,149.97,Card,Bengaluru
+2025-09-29,C0160,64,Female,Smart Watch,Electronics,2,129.00,258.00,Card,Chennai
+2025-03-21,C0339,45,Female,Wireless Headphones,Electronics,2,59.99,119.98,Online,Pune
+2025-05-20,C0348,61,Male,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Chennai
+2025-04-23,C0109,67,Female,T-Shirt,Clothing,1,19.99,19.99,UPI,Delhi
+2025-06-17,C0195,52,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Bengaluru
+2025-07-23,C0040,38,Male,Coffee Beans,Grocery,1,14.99,14.99,Online,Pune
+2025-05-29,C0317,47,Male,Wireless Headphones,Electronics,5,59.99,299.95,UPI,Bengaluru
+2025-08-12,C0041,43,Male,Olive Oil,Grocery,1,12.50,12.50,UPI,Mumbai
+2025-06-20,C0262,30,Male,Face Moisturizer,Beauty,3,24.99,74.97,UPI,Kochi
+2025-11-27,C0089,56,Female,Olive Oil,Grocery,1,12.50,12.50,Card,Hyderabad
+2025-11-18,C0330,58,Other,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Kochi
+2025-03-19,C0141,55,Female,Running Shoes,Clothing,1,74.00,74.00,Card,Delhi
+2025-08-25,C0331,23,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Coimbatore
+2025-10-25,C0334,30,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Hyderabad
+2025-02-01,C0331,29,Female,Hoodie,Clothing,6,44.50,267.00,Online,Coimbatore
+2025-09-26,C0199,44,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Kochi
+2025-02-03,C0337,56,Male,Running Shoes,Clothing,1,74.00,74.00,UPI,Bengaluru
+2025-10-26,C0340,43,Female,Sunscreen,Beauty,1,15.99,15.99,Card,Delhi
+2025-10-14,C0351,51,Female,Hoodie,Clothing,3,44.50,133.50,Online,Kochi
+2025-01-10,C0249,30,Female,Jeans,Clothing,4,49.99,199.96,Cash,Hyderabad
+2025-02-09,C0270,20,Male,T-Shirt,Clothing,2,19.99,39.98,Cash,Pune
+2025-03-20,C0187,61,Male,Bluetooth Speaker,Electronics,3,39.50,118.50,Online,Delhi
+2025-08-18,C0241,30,Female,Jeans,Clothing,1,49.99,49.99,Online,Coimbatore
+2025-05-25,C0310,26,Male,Perfume,Beauty,4,48.00,192.00,Card,Coimbatore
+2025-07-10,C0064,36,Female,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Delhi
+2025-08-19,C0114,70,Female,Olive Oil,Grocery,4,12.50,50.00,UPI,Chennai
+2025-08-01,C0192,32,Female,USB-C Charger,Electronics,1,18.99,18.99,Card,Kochi
+2025-03-16,C0072,66,Male,USB-C Charger,Electronics,4,18.99,75.96,Online,Chennai
+2025-02-10,C0312,51,Female,Bluetooth Speaker,Electronics,3,39.50,118.50,UPI,Mumbai
+2025-06-04,C0235,22,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Chennai
+2025-11-20,C0001,57,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Online,Hyderabad
+2025-12-07,C0260,68,Other,Sunscreen,Beauty,1,15.99,15.99,Card,Pune
+2025-08-29,C0009,40,Male,Smart Watch,Electronics,5,129.00,645.00,UPI,Mumbai
+2025-12-03,C0174,70,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-11-20,C0235,20,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Card,Mumbai
+2025-01-22,C0279,48,Female,Hoodie,Clothing,2,44.50,89.00,Cash,Delhi
+2025-07-02,C0064,69,Female,Coffee Beans,Grocery,3,14.99,44.97,Online,Coimbatore
+2025-07-17,C0266,35,Male,Jeans,Clothing,2,49.99,99.98,Online,Bengaluru
+2025-08-09,C0041,38,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,UPI,Coimbatore
+2025-11-05,C0022,64,Male,Shampoo,Beauty,2,11.50,23.00,UPI,Pune
+2025-05-21,C0187,50,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Chennai
+2025-03-15,C0331,41,Female,Green Tea,Grocery,2,8.50,17.00,Card,Hyderabad
+2025-12-14,C0294,26,Male,Hoodie,Clothing,1,44.50,44.50,Online,Kochi
+2025-11-29,C0266,42,Male,T-Shirt,Clothing,2,19.99,39.98,Card,Delhi
+2025-05-14,C0252,30,Female,Shampoo,Beauty,5,11.50,57.50,Card,Coimbatore
+2025-03-30,C0164,60,Female,Green Tea,Grocery,5,8.50,42.50,Card,Delhi
+2025-06-03,C0063,30,Male,Olive Oil,Grocery,3,12.50,37.50,Cash,Coimbatore
+2025-01-14,C0067,57,Male,Hoodie,Clothing,1,44.50,44.50,Card,Delhi
+2025-07-23,C0295,22,Female,Green Tea,Grocery,2,8.50,17.00,UPI,Bengaluru
+2025-08-19,C0283,58,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Pune
+2025-09-15,C0156,28,Female,Coffee Beans,Grocery,3,14.99,44.97,Cash,Kochi
+2025-09-23,C0283,35,Female,Coffee Beans,Grocery,1,14.99,14.99,UPI,Bengaluru
+2025-09-15,C0310,39,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Chennai
+2025-02-11,C0214,57,Male,USB-C Charger,Electronics,2,18.99,37.98,Online,Delhi
+2025-11-25,C0208,37,Female,Green Tea,Grocery,1,8.50,8.50,Card,Hyderabad
+2025-08-14,C0161,63,Female,Running Shoes,Clothing,1,74.00,74.00,UPI,Pune
+2025-03-08,C0137,46,Female,Face Moisturizer,Beauty,1,24.99,24.99,Card,Chennai
+2025-05-29,C0082,70,Female,Green Tea,Grocery,1,8.50,8.50,UPI,Mumbai
+2025-03-23,C0012,23,Male,Storage Box,Home & Kitchen,2,12.99,25.98,Online,Mumbai
+2025-04-21,C0335,61,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Bengaluru
+2025-08-09,C0188,20,Female,USB-C Charger,Electronics,2,18.99,37.98,Cash,Kochi
+2025-10-11,C0144,70,Other,Running Shoes,Clothing,2,74.00,148.00,Card,Hyderabad
+2025-02-19,C0074,30,Male,Hoodie,Clothing,2,44.50,89.00,Online,Chennai
+2025-01-24,C0077,56,Male,USB-C Charger,Electronics,3,18.99,56.97,Cash,Kochi
+2025-11-10,C0154,55,Female,Running Shoes,Clothing,5,74.00,370.00,Online,Delhi
+2025-09-01,C0214,55,Female,Snack Box,Grocery,2,9.99,19.98,Card,Coimbatore
+2025-05-16,C0088,51,Male,Olive Oil,Grocery,2,12.50,25.00,Online,Hyderabad
+2025-12-15,C0215,27,Female,T-Shirt,Clothing,1,19.99,19.99,Cash,Pune
+2025-09-14,C0032,63,Female,Perfume,Beauty,3,48.00,144.00,Cash,Kochi
+2025-12-06,C0273,39,Male,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Coimbatore
+2025-04-09,C0153,67,Female,Snack Box,Grocery,2,9.99,19.98,Cash,Coimbatore
+2025-06-12,C0279,42,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Kochi
+2025-03-16,C0227,59,Female,Hoodie,Clothing,5,44.50,222.50,Online,Mumbai
+2025-04-14,C0071,24,Male,Snack Box,Grocery,4,9.99,39.96,Cash,Mumbai
+2025-01-26,C0212,39,Male,Shampoo,Beauty,3,11.50,34.50,Card,Hyderabad
+2025-01-03,C0244,48,Male,Olive Oil,Grocery,1,12.50,12.50,UPI,Kochi
+2025-05-27,C0020,29,Female,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Chennai
+2025-07-23,C0149,20,Female,Shampoo,Beauty,4,11.50,46.00,Card,Kochi
+2025-05-26,C0259,47,Female,Running Shoes,Clothing,4,74.00,296.00,Card,Kochi
+2025-03-25,C0173,68,Female,Sunscreen,Beauty,3,15.99,47.97,Cash,Hyderabad
+2025-11-09,C0045,43,Male,Green Tea,Grocery,3,8.50,25.50,Cash,Hyderabad
+2025-09-02,C0229,66,Female,Jeans,Clothing,1,49.99,49.99,UPI,Delhi
+2025-10-26,C0121,21,Male,Face Moisturizer,Beauty,1,24.99,24.99,Online,Delhi
+2025-03-23,C0152,41,Male,Hoodie,Clothing,2,44.50,89.00,Cash,Hyderabad
+2025-09-02,C0242,66,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Mumbai
+2025-12-15,C0186,22,Male,Face Moisturizer,Beauty,2,24.99,49.98,Card,Chennai
+2025-10-08,C0168,51,Female,Olive Oil,Grocery,3,12.50,37.50,Cash,Coimbatore
+2025-02-16,C0263,44,Female,Green Tea,Grocery,3,8.50,25.50,Card,Coimbatore
+2025-12-11,C0112,55,Female,Coffee Beans,Grocery,1,14.99,14.99,Online,Kochi
+2025-12-25,C0242,20,Female,Wireless Headphones,Electronics,5,59.99,299.95,Cash,Hyderabad
+2025-11-25,C0230,42,Female,Green Tea,Grocery,1,8.50,8.50,Cash,Kochi
+2025-03-02,C0115,18,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Coimbatore
+2025-12-11,C0127,47,Female,Perfume,Beauty,2,48.00,96.00,UPI,Mumbai
+2025-02-27,C0009,33,Female,Smart Watch,Electronics,2,129.00,258.00,Card,Chennai
+2025-08-17,C0225,32,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Card,Hyderabad
+2025-09-15,C0164,54,Male,Olive Oil,Grocery,3,12.50,37.50,UPI,Mumbai
+2025-06-04,C0286,55,Male,Olive Oil,Grocery,1,12.50,12.50,Cash,Pune
+2025-10-12,C0269,38,Male,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Online,Hyderabad
+2025-06-03,C0074,69,Female,Running Shoes,Clothing,1,74.00,74.00,Card,Pune
+2025-08-02,C0170,59,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Online,Kochi
+2025-02-17,C0310,56,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Mumbai
+2025-10-28,C0171,37,Male,Shampoo,Beauty,1,11.50,11.50,Card,Mumbai
+2025-04-08,C0125,62,Male,Coffee Beans,Grocery,2,14.99,29.98,Cash,Pune
+2025-05-03,C0184,37,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-02-20,C0105,41,Female,Green Tea,Grocery,3,8.50,25.50,Card,Mumbai
+2025-03-16,C0118,42,Male,Smart Watch,Electronics,1,129.00,129.00,Cash,Coimbatore
+2025-10-09,C0329,65,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Kochi
+2025-03-28,C0329,21,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Chennai
+2025-01-04,C0112,50,Female,Jeans,Clothing,2,49.99,99.98,Card,Coimbatore
+2025-12-04,C0009,51,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Chennai
+2025-09-15,C0055,24,Male,Green Tea,Grocery,3,8.50,25.50,Cash,Mumbai
+2025-11-14,C0192,43,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Mumbai
+2025-06-03,C0017,23,Female,Face Moisturizer,Beauty,2,24.99,49.98,Online,Coimbatore
+2025-01-29,C0331,68,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Chennai
+2025-04-28,C0351,35,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Hyderabad
+2025-06-11,C0204,22,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Cash,Pune
+2025-12-13,C0353,64,Female,Snack Box,Grocery,1,9.99,9.99,UPI,Chennai
+2025-02-20,C0305,43,Male,T-Shirt,Clothing,1,19.99,19.99,UPI,Chennai
+2025-11-21,C0193,45,Female,Running Shoes,Clothing,2,74.00,148.00,Online,Bengaluru
+2025-11-13,C0079,42,Male,Jeans,Clothing,3,49.99,149.97,Cash,Pune
+2025-06-12,C0185,66,Female,T-Shirt,Clothing,1,19.99,19.99,Cash,Bengaluru
+2025-04-06,C0284,23,Male,Running Shoes,Clothing,2,74.00,148.00,UPI,Pune
+2025-01-07,C0287,33,Male,Running Shoes,Clothing,3,74.00,222.00,Cash,Pune
+2025-03-28,C0086,45,Female,USB-C Charger,Electronics,2,18.99,37.98,UPI,Coimbatore
+2025-02-09,C0316,30,Female,Jeans,Clothing,2,49.99,99.98,Cash,Delhi
+2025-01-04,C0169,46,Female,Snack Box,Grocery,3,9.99,29.97,Cash,Delhi
+2025-06-14,C0204,38,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Online,Mumbai
+2025-06-16,C0103,55,Other,Running Shoes,Clothing,1,74.00,74.00,Cash,Chennai
+2025-08-25,C0355,22,Male,Olive Oil,Grocery,1,12.50,12.50,Online,Coimbatore
+2025-03-13,C0217,68,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Online,Coimbatore
+2025-10-26,C0185,62,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Bengaluru
+2025-05-08,C0289,59,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Kochi
+2025-08-09,C0266,53,Male,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Coimbatore
+2025-07-11,C0054,36,Female,Jeans,Clothing,2,49.99,99.98,Card,Bengaluru
+2025-03-14,C0248,40,Female,Hoodie,Clothing,1,44.50,44.50,Online,Coimbatore
+2025-06-13,C0176,59,Female,Wireless Headphones,Electronics,4,59.99,239.96,Cash,Mumbai
+2025-09-22,C0237,32,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Cash,Hyderabad
+2025-11-24,C0102,46,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Chennai
+2025-12-27,C0033,54,Female,USB-C Charger,Electronics,2,18.99,37.98,Cash,Kochi
+2025-06-16,C0271,58,Female,Wireless Headphones,Electronics,1,59.99,59.99,Online,Pune
+2025-10-28,C0345,63,Male,USB-C Charger,Electronics,3,18.99,56.97,Card,Hyderabad
+2025-06-10,C0073,50,Female,USB-C Charger,Electronics,1,18.99,18.99,Cash,Pune
+2025-08-05,C0072,29,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Chennai
+2025-07-03,C0288,50,Male,Green Tea,Grocery,1,8.50,8.50,Online,Coimbatore
+2025-08-01,C0016,68,Male,Perfume,Beauty,3,48.00,144.00,UPI,Chennai
+2025-05-21,C0254,53,Male,Hoodie,Clothing,1,44.50,44.50,Card,Delhi
+2025-10-06,C0226,52,Female,Snack Box,Grocery,2,9.99,19.98,Online,Bengaluru
+2025-12-01,C0135,40,Male,Sunscreen,Beauty,4,15.99,63.96,Card,Coimbatore
+2025-03-02,C0353,40,Male,Shampoo,Beauty,1,11.50,11.50,Online,Hyderabad
+2025-11-12,C0292,40,Male,Bluetooth Speaker,Electronics,3,39.50,118.50,Cash,Kochi
+2025-12-27,C0348,70,Female,Hoodie,Clothing,4,44.50,178.00,Online,Chennai
+2025-05-22,C0075,63,Female,Olive Oil,Grocery,3,12.50,37.50,Cash,Pune
+2025-09-08,C0039,58,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Pune
+2025-09-21,C0298,18,Male,Sunscreen,Beauty,1,15.99,15.99,Card,Coimbatore
+2025-11-22,C0204,31,Male,Sunscreen,Beauty,3,15.99,47.97,Cash,Coimbatore
+2025-05-18,C0290,49,Male,Hoodie,Clothing,1,44.50,44.50,Card,Chennai
+2025-02-20,C0081,46,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Mumbai
+2025-12-19,C0141,23,Male,Snack Box,Grocery,1,9.99,9.99,UPI,Bengaluru
+2025-07-10,C0359,66,Female,Shampoo,Beauty,1,11.50,11.50,Card,Bengaluru
+2025-01-01,C0349,46,Female,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Bengaluru
+2025-08-05,C0053,24,Female,Perfume,Beauty,1,48.00,48.00,UPI,Hyderabad
+2025-07-15,C0036,51,Male,Shampoo,Beauty,2,11.50,23.00,Cash,Coimbatore
+2025-06-29,C0227,31,Female,Shampoo,Beauty,4,11.50,46.00,Card,Hyderabad
+2025-03-05,C0072,33,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Card,Mumbai
+2025-10-11,C0338,37,Female,Bed Sheet Set,Home & Kitchen,3,54.00,162.00,Cash,Pune
+2025-06-01,C0256,58,Male,Water Bottle,Home & Kitchen,3,16.50,49.50,Card,Kochi
+2025-06-12,C0242,67,Female,Smart Watch,Electronics,1,129.00,129.00,Card,Chennai
+2025-05-15,C0147,58,Male,Wireless Headphones,Electronics,4,59.99,239.96,Online,Pune
+2025-12-26,C0262,31,Other,Jeans,Clothing,1,49.99,49.99,Cash,Kochi
+2025-07-20,C0123,21,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Bengaluru
+2025-08-21,C0090,25,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Chennai
+2025-03-25,C0133,28,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,UPI,Bengaluru
+2025-01-16,C0296,58,Female,Running Shoes,Clothing,2,74.00,148.00,Online,Kochi
+2025-01-29,C0053,54,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Mumbai
+2025-09-18,C0197,27,Female,Wireless Headphones,Electronics,1,59.99,59.99,Card,Pune
+2025-04-25,C0040,54,Female,Running Shoes,Clothing,4,74.00,296.00,Card,Hyderabad
+2025-04-25,C0239,36,Male,Coffee Beans,Grocery,5,14.99,74.95,UPI,Kochi
+2025-02-14,C0156,65,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Kochi
+2025-10-30,C0126,27,Female,Olive Oil,Grocery,2,12.50,25.00,Online,Chennai
+2025-04-30,C0337,42,Male,Coffee Maker,Home & Kitchen,5,69.99,349.95,UPI,Bengaluru
+2025-04-16,C0073,63,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Mumbai
+2025-09-24,C0298,24,Male,Hoodie,Clothing,1,44.50,44.50,Online,Bengaluru
+2025-10-31,C0150,34,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Online,Kochi
+2025-06-12,C0300,24,Female,Jeans,Clothing,1,49.99,49.99,Cash,Coimbatore
+2025-08-27,C0107,46,Female,T-Shirt,Clothing,2,19.99,39.98,UPI,Bengaluru
+2025-02-16,C0021,31,Male,USB-C Charger,Electronics,3,18.99,56.97,UPI,Hyderabad
+2025-02-16,C0154,34,Male,Sunscreen,Beauty,2,15.99,31.98,Cash,Chennai
+2025-07-27,C0072,25,Female,Olive Oil,Grocery,2,12.50,25.00,Cash,Hyderabad
+2025-04-12,C0044,55,Male,Snack Box,Grocery,2,9.99,19.98,Card,Chennai
+2025-02-03,C0170,25,Female,Smart Watch,Electronics,4,129.00,516.00,Online,Chennai
+2025-03-28,C0016,42,Male,Green Tea,Grocery,3,8.50,25.50,Cash,Kochi
+2025-04-20,C0018,57,Male,Snack Box,Grocery,1,9.99,9.99,Cash,Delhi
+2025-09-13,C0071,44,Female,Running Shoes,Clothing,1,74.00,74.00,Cash,Chennai
+2025-07-15,C0177,54,Male,Sunscreen,Beauty,1,15.99,15.99,Online,Delhi
+2025-04-03,C0144,21,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Kochi
+2025-10-27,C0137,52,Male,Olive Oil,Grocery,1,12.50,12.50,Card,Mumbai
+2025-10-22,C0089,29,Female,Green Tea,Grocery,1,8.50,8.50,UPI,Kochi
+2025-10-30,C0289,30,Male,USB-C Charger,Electronics,4,18.99,75.96,Online,Delhi
+2025-03-31,C0011,51,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,UPI,Mumbai
+2025-03-08,C0166,21,Female,Jeans,Clothing,4,49.99,199.96,Cash,Bengaluru
+2025-09-27,C0203,55,Female,Coffee Beans,Grocery,1,14.99,14.99,UPI,Kochi
+2025-03-11,C0333,38,Female,Green Tea,Grocery,3,8.50,25.50,UPI,Mumbai
+2025-12-07,C0151,26,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Pune
+2025-10-18,C0114,58,Male,USB-C Charger,Electronics,4,18.99,75.96,Online,Hyderabad
+2025-06-19,C0326,23,Male,Shampoo,Beauty,1,11.50,11.50,UPI,Coimbatore
+2025-01-06,C0056,64,Female,Jeans,Clothing,2,49.99,99.98,Online,Coimbatore
+2025-08-03,C0280,42,Female,Green Tea,Grocery,2,8.50,17.00,Online,Mumbai
+2025-03-25,C0054,22,Female,T-Shirt,Clothing,1,19.99,19.99,Online,Hyderabad
+2025-02-08,C0248,63,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Pune
+2025-03-22,C0357,53,Male,USB-C Charger,Electronics,1,18.99,18.99,UPI,Delhi
+2025-06-02,C0252,27,Female,T-Shirt,Clothing,1,19.99,19.99,Card,Pune
+2025-02-14,C0088,58,Female,Running Shoes,Clothing,2,74.00,148.00,Card,Coimbatore
+2025-03-01,C0136,23,Male,Running Shoes,Clothing,1,74.00,74.00,Online,Hyderabad
+2025-07-09,C0226,47,Female,Snack Box,Grocery,2,9.99,19.98,UPI,Chennai
+2025-03-19,C0278,44,Other,Face Moisturizer,Beauty,1,24.99,24.99,Cash,Chennai
+2025-07-18,C0244,54,Male,Green Tea,Grocery,4,8.50,34.00,Online,Delhi
+2025-02-10,C0293,61,Other,T-Shirt,Clothing,2,19.99,39.98,Cash,Bengaluru
+2025-08-18,C0065,20,Female,Bluetooth Speaker,Electronics,5,39.50,197.50,Online,Mumbai
+2025-11-18,C0035,23,Female,USB-C Charger,Electronics,1,18.99,18.99,Online,Kochi
+2025-05-22,C0268,68,Female,Coffee Maker,Home & Kitchen,3,69.99,209.97,Online,Hyderabad
+2025-03-17,C0052,68,Female,Coffee Maker,Home & Kitchen,4,69.99,279.96,UPI,Pune
+2025-05-16,C0089,35,Female,Running Shoes,Clothing,2,74.00,148.00,Online,Chennai
+2025-07-22,C0244,35,Male,Snack Box,Grocery,3,9.99,29.97,Card,Kochi
+2025-06-05,C0117,26,Female,Running Shoes,Clothing,3,74.00,222.00,Online,Kochi
+2025-05-18,C0209,65,Female,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Chennai
+2025-09-21,C0070,67,Male,Face Moisturizer,Beauty,1,24.99,24.99,Card,Hyderabad
+2025-04-09,C0234,21,Male,Olive Oil,Grocery,3,12.50,37.50,Cash,Delhi
+2025-07-08,C0016,33,Female,Green Tea,Grocery,3,8.50,25.50,Online,Hyderabad
+2025-08-31,C0133,65,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Card,Delhi
+2025-01-15,C0110,32,Male,Jeans,Clothing,3,49.99,149.97,Cash,Delhi
+2025-11-30,C0350,18,Female,T-Shirt,Clothing,3,19.99,59.97,Cash,Hyderabad
+2025-11-04,C0157,63,Male,Olive Oil,Grocery,1,12.50,12.50,UPI,Pune
+2025-07-12,C0347,51,Male,Green Tea,Grocery,1,8.50,8.50,Online,Bengaluru
+2025-01-04,C0145,37,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Online,Bengaluru
+2025-06-22,C0334,37,Female,Snack Box,Grocery,3,9.99,29.97,Cash,Chennai
+2025-11-04,C0336,49,Other,Hoodie,Clothing,2,44.50,89.00,UPI,Pune
+2025-07-27,C0098,39,Male,T-Shirt,Clothing,2,19.99,39.98,Cash,Coimbatore
+2025-12-10,C0286,29,Female,Hoodie,Clothing,3,44.50,133.50,Online,Hyderabad
+2025-05-13,C0336,23,Female,Shampoo,Beauty,4,11.50,46.00,Cash,Delhi
+2025-08-04,C0238,25,Female,Sunscreen,Beauty,1,15.99,15.99,Card,Coimbatore
+2025-04-10,C0078,26,Other,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Pune
+2025-10-19,C0093,67,Female,Green Tea,Grocery,1,8.50,8.50,UPI,Hyderabad
+2025-06-10,C0087,54,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Bengaluru
+2025-03-08,C0197,18,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Cash,Kochi
+2025-01-08,C0128,32,Male,Olive Oil,Grocery,2,12.50,25.00,UPI,Delhi
+2025-03-08,C0153,36,Female,USB-C Charger,Electronics,1,18.99,18.99,UPI,Pune
+2025-12-18,C0097,28,Male,Snack Box,Grocery,5,9.99,49.95,Online,Chennai
+2025-04-27,C0259,28,Female,Jeans,Clothing,2,49.99,99.98,Card,Pune
+2025-11-24,C0056,59,Male,T-Shirt,Clothing,3,19.99,59.97,Card,Bengaluru
+2025-08-02,C0079,31,Male,T-Shirt,Clothing,2,19.99,39.98,Card,Delhi
+2025-08-04,C0215,24,Male,Sunscreen,Beauty,2,15.99,31.98,Card,Delhi
+2025-02-28,C0135,51,Other,Perfume,Beauty,1,48.00,48.00,UPI,Pune
+2025-06-01,C0247,39,Female,Smart Watch,Electronics,4,129.00,516.00,Card,Bengaluru
+2025-02-26,C0262,22,Male,Green Tea,Grocery,2,8.50,17.00,Card,Delhi
+2025-11-26,C0090,20,Male,Hoodie,Clothing,2,44.50,89.00,UPI,Kochi
+2025-08-07,C0005,26,Male,Face Moisturizer,Beauty,3,24.99,74.97,Cash,Kochi
+2025-07-03,C0176,29,Female,Snack Box,Grocery,4,9.99,39.96,Online,Coimbatore
+2025-05-20,C0086,25,Female,Green Tea,Grocery,3,8.50,25.50,Card,Hyderabad
+2025-02-23,C0093,57,Female,Running Shoes,Clothing,3,74.00,222.00,UPI,Chennai
+2025-12-17,C0211,46,Female,Olive Oil,Grocery,2,12.50,25.00,UPI,Kochi
+2025-01-07,C0174,51,Male,Shampoo,Beauty,5,11.50,57.50,Card,Pune
+2025-12-05,C0198,27,Male,Perfume,Beauty,1,48.00,48.00,Card,Chennai
+2025-11-26,C0039,66,Male,Green Tea,Grocery,3,8.50,25.50,Cash,Kochi
+2025-05-23,C0121,23,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Bengaluru
+2025-09-13,C0010,24,Female,T-Shirt,Clothing,5,19.99,99.95,Card,Chennai
+2025-02-16,C0336,60,Female,Sunscreen,Beauty,3,15.99,47.97,UPI,Kochi
+2025-01-28,C0308,48,Male,Green Tea,Grocery,1,8.50,8.50,UPI,Coimbatore
+2025-02-28,C0325,69,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Bengaluru
+2025-01-24,C0210,24,Female,Green Tea,Grocery,1,8.50,8.50,Cash,Mumbai
+2025-03-03,C0098,63,Female,Green Tea,Grocery,1,8.50,8.50,Online,Chennai
+2025-11-21,C0338,55,Male,Coffee Beans,Grocery,3,14.99,44.97,Cash,Coimbatore
+2025-01-03,C0300,48,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Hyderabad
+2025-03-07,C0312,62,Male,USB-C Charger,Electronics,2,18.99,37.98,UPI,Pune
+2025-06-25,C0309,62,Male,Green Tea,Grocery,4,8.50,34.00,UPI,Kochi
+2025-12-31,C0149,61,Female,Shampoo,Beauty,1,11.50,11.50,Cash,Hyderabad
+2025-09-15,C0288,48,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Online,Delhi
+2025-08-05,C0344,21,Female,Coffee Beans,Grocery,2,14.99,29.98,Cash,Delhi
+2025-12-16,C0278,20,Female,T-Shirt,Clothing,2,19.99,39.98,Online,Bengaluru
+2025-11-12,C0122,50,Male,Olive Oil,Grocery,2,12.50,25.00,UPI,Chennai
+2025-07-15,C0129,30,Male,Hoodie,Clothing,5,44.50,222.50,Online,Mumbai
+2025-11-21,C0309,30,Male,Sunscreen,Beauty,2,15.99,31.98,Cash,Delhi
+2025-08-18,C0264,25,Female,Wireless Headphones,Electronics,1,59.99,59.99,Online,Delhi
+2025-10-12,C0170,47,Male,Jeans,Clothing,2,49.99,99.98,Cash,Chennai
+2025-03-20,C0339,37,Male,Coffee Beans,Grocery,3,14.99,44.97,UPI,Bengaluru
+2025-12-29,C0259,28,Female,Jeans,Clothing,4,49.99,199.96,Online,Bengaluru
+2025-06-28,C0151,31,Male,Jeans,Clothing,2,49.99,99.98,Online,Chennai
+2025-02-28,C0319,33,Male,Perfume,Beauty,1,48.00,48.00,UPI,Pune
+2025-02-28,C0192,50,Male,Hoodie,Clothing,1,44.50,44.50,Online,Coimbatore
+2025-01-23,C0050,28,Other,Jeans,Clothing,2,49.99,99.98,Card,Bengaluru
+2025-04-18,C0054,31,Male,Shampoo,Beauty,3,11.50,34.50,Online,Bengaluru
+2025-12-18,C0038,21,Female,Smart Watch,Electronics,3,129.00,387.00,UPI,Bengaluru
+2025-10-22,C0208,45,Female,Snack Box,Grocery,1,9.99,9.99,Online,Bengaluru
+2025-10-01,C0359,22,Female,Wireless Headphones,Electronics,2,59.99,119.98,Card,Delhi
+2025-12-18,C0196,43,Male,T-Shirt,Clothing,1,19.99,19.99,Card,Coimbatore
+2025-03-22,C0280,36,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,Cash,Delhi
+2025-12-13,C0285,27,Female,Snack Box,Grocery,5,9.99,49.95,Card,Pune
+2025-10-03,C0177,31,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Hyderabad
+2025-04-05,C0291,21,Male,Hoodie,Clothing,1,44.50,44.50,Online,Bengaluru
+2025-05-29,C0250,39,Female,Sunscreen,Beauty,1,15.99,15.99,Cash,Bengaluru
+2025-05-26,C0316,60,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Kochi
+2025-06-11,C0114,63,Male,Olive Oil,Grocery,1,12.50,12.50,Online,Delhi
+2025-07-04,C0184,67,Female,USB-C Charger,Electronics,3,18.99,56.97,Card,Hyderabad
+2025-11-27,C0276,30,Female,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Card,Bengaluru
+2025-01-10,C0303,31,Male,Coffee Beans,Grocery,3,14.99,44.97,UPI,Coimbatore
+2025-12-01,C0302,64,Male,Sunscreen,Beauty,1,15.99,15.99,Cash,Coimbatore
+2025-09-14,C0123,69,Other,Storage Box,Home & Kitchen,2,12.99,25.98,Cash,Hyderabad
+2025-08-17,C0184,20,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Mumbai
+2025-02-02,C0185,42,Female,Jeans,Clothing,1,49.99,49.99,Online,Chennai
+2025-01-21,C0325,35,Male,Snack Box,Grocery,1,9.99,9.99,UPI,Hyderabad
+2025-07-12,C0040,51,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Cash,Pune
+2025-06-30,C0310,18,Male,Snack Box,Grocery,2,9.99,19.98,Cash,Coimbatore
+2025-03-26,C0186,56,Male,Hoodie,Clothing,1,44.50,44.50,Card,Mumbai
+2025-08-01,C0108,55,Female,Coffee Beans,Grocery,2,14.99,29.98,Online,Chennai
+2025-05-05,C0294,27,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Hyderabad
+2025-09-22,C0146,23,Female,Coffee Beans,Grocery,3,14.99,44.97,Online,Coimbatore
+2025-03-29,C0094,57,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Hyderabad
+2025-12-18,C0194,42,Female,Running Shoes,Clothing,3,74.00,222.00,Card,Mumbai
+2025-09-25,C0091,48,Male,Green Tea,Grocery,3,8.50,25.50,Card,Bengaluru
+2025-02-17,C0001,67,Male,Water Bottle,Home & Kitchen,4,16.50,66.00,Online,Pune
+2025-07-09,C0196,40,Male,Green Tea,Grocery,1,8.50,8.50,Card,Pune
+2025-03-10,C0307,52,Female,Jeans,Clothing,5,49.99,249.95,Cash,Chennai
+2025-12-30,C0004,42,Male,Face Moisturizer,Beauty,3,24.99,74.97,UPI,Pune
+2025-07-05,C0275,45,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Pune
+2025-04-15,C0248,34,Other,Running Shoes,Clothing,1,74.00,74.00,UPI,Pune
+2025-03-12,C0359,28,Female,Coffee Beans,Grocery,2,14.99,29.98,Online,Kochi
+2025-10-09,C0003,69,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Coimbatore
+2025-11-04,C0312,20,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Delhi
+2025-12-31,C0328,49,Female,Coffee Beans,Grocery,4,14.99,59.96,Cash,Delhi
+2025-04-10,C0185,33,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Cash,Bengaluru
+2025-05-22,C0103,51,Female,Sunscreen,Beauty,2,15.99,31.98,Card,Bengaluru
+2025-10-09,C0116,56,Male,Hoodie,Clothing,1,44.50,44.50,Online,Pune
+2025-10-22,C0038,50,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Card,Delhi
+2025-10-03,C0289,48,Male,Snack Box,Grocery,2,9.99,19.98,UPI,Coimbatore
+2025-12-15,C0196,58,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Mumbai
+2025-06-11,C0135,33,Female,Hoodie,Clothing,3,44.50,133.50,Online,Kochi
+2025-02-08,C0294,35,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Coimbatore
+2025-04-13,C0104,33,Male,Jeans,Clothing,3,49.99,149.97,UPI,Hyderabad
+2025-02-24,C0315,18,Male,Wireless Headphones,Electronics,2,59.99,119.98,Card,Coimbatore
+2025-07-10,C0295,35,Male,Storage Box,Home & Kitchen,3,12.99,38.97,UPI,Pune
+2025-04-24,C0245,52,Female,Shampoo,Beauty,1,11.50,11.50,UPI,Pune
+2025-12-18,C0236,38,Male,Perfume,Beauty,5,48.00,240.00,Card,Mumbai
+2025-07-14,C0096,53,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,UPI,Coimbatore
+2025-11-10,C0359,66,Female,Jeans,Clothing,2,49.99,99.98,Online,Delhi
+2025-08-19,C0052,64,Female,Bluetooth Speaker,Electronics,5,39.50,197.50,Cash,Pune
+2025-07-15,C0216,49,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,UPI,Coimbatore
+2025-06-03,C0031,31,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Bengaluru
+2025-08-19,C0132,40,Female,Sunscreen,Beauty,1,15.99,15.99,Card,Kochi
+2025-12-14,C0276,29,Other,Olive Oil,Grocery,2,12.50,25.00,UPI,Kochi
+2025-06-16,C0041,42,Male,Perfume,Beauty,3,48.00,144.00,Online,Hyderabad
+2025-03-27,C0208,22,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,UPI,Mumbai
+2025-06-10,C0203,35,Male,Hoodie,Clothing,2,44.50,89.00,UPI,Coimbatore
+2025-07-31,C0129,65,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Mumbai
+2025-03-27,C0281,21,Female,T-Shirt,Clothing,1,19.99,19.99,Online,Bengaluru
+2025-02-23,C0200,37,Female,Jeans,Clothing,1,49.99,49.99,UPI,Coimbatore
+2025-11-17,C0167,48,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Coimbatore
+2025-03-11,C0326,54,Female,Olive Oil,Grocery,2,12.50,25.00,UPI,Kochi
+2025-09-04,C0134,27,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Hyderabad
+2025-06-26,C0245,37,Female,T-Shirt,Clothing,2,19.99,39.98,Online,Delhi
+2025-11-02,C0288,45,Female,T-Shirt,Clothing,3,19.99,59.97,Cash,Pune
+2025-07-13,C0314,69,Male,T-Shirt,Clothing,1,19.99,19.99,UPI,Delhi
+2025-11-29,C0094,26,Female,Sunscreen,Beauty,1,15.99,15.99,Online,Coimbatore
+2025-05-20,C0026,52,Female,Perfume,Beauty,2,48.00,96.00,Card,Delhi
+2025-05-18,C0078,18,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Pune
+2025-06-09,C0017,39,Female,Perfume,Beauty,5,48.00,240.00,Cash,Chennai
+2025-05-17,C0129,70,Female,Face Moisturizer,Beauty,2,24.99,49.98,Card,Bengaluru
+2025-05-08,C0102,47,Male,Running Shoes,Clothing,1,74.00,74.00,Card,Mumbai
+2025-08-31,C0022,65,Male,Hoodie,Clothing,5,44.50,222.50,Card,Delhi
+2025-09-04,C0342,31,Other,Water Bottle,Home & Kitchen,2,16.50,33.00,Cash,Pune
+2025-06-16,C0125,18,Male,USB-C Charger,Electronics,2,18.99,37.98,Online,Hyderabad
+2025-07-10,C0317,39,Male,Shampoo,Beauty,2,11.50,23.00,Card,Chennai
+2025-07-02,C0286,68,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,UPI,Coimbatore
+2025-04-09,C0021,49,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Coimbatore
+2025-04-08,C0307,53,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Cash,Coimbatore
+2025-06-01,C0260,42,Male,Snack Box,Grocery,1,9.99,9.99,Card,Kochi
+2025-11-14,C0199,30,Male,T-Shirt,Clothing,2,19.99,39.98,Online,Hyderabad
+2025-11-10,C0268,60,Female,Running Shoes,Clothing,3,74.00,222.00,Cash,Hyderabad
+2025-01-17,C0329,42,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Chennai
+2025-07-07,C0336,49,Male,T-Shirt,Clothing,1,19.99,19.99,Card,Coimbatore
+2025-11-24,C0030,70,Male,Smart Watch,Electronics,3,129.00,387.00,Card,Bengaluru
+2025-06-05,C0119,52,Female,Bluetooth Speaker,Electronics,5,39.50,197.50,Cash,Mumbai
+2025-10-19,C0055,67,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,UPI,Coimbatore
+2025-12-26,C0206,50,Female,Face Moisturizer,Beauty,2,24.99,49.98,Cash,Coimbatore
+2025-06-30,C0325,45,Male,Snack Box,Grocery,3,9.99,29.97,UPI,Mumbai
+2025-10-16,C0131,41,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Online,Pune
+2025-01-01,C0155,18,Female,Sunscreen,Beauty,2,15.99,31.98,Cash,Mumbai
+2025-06-11,C0293,54,Female,USB-C Charger,Electronics,4,18.99,75.96,Card,Coimbatore
+2025-07-02,C0120,34,Male,USB-C Charger,Electronics,1,18.99,18.99,Card,Pune
+2025-10-19,C0089,49,Male,Coffee Beans,Grocery,2,14.99,29.98,Card,Delhi
+2025-01-20,C0172,40,Male,Perfume,Beauty,2,48.00,96.00,Online,Pune
+2025-03-03,C0006,58,Male,Olive Oil,Grocery,2,12.50,25.00,Online,Chennai
+2025-06-06,C0258,62,Female,Bed Sheet Set,Home & Kitchen,3,54.00,162.00,Card,Pune
+2025-08-17,C0202,27,Female,Face Moisturizer,Beauty,1,24.99,24.99,Card,Coimbatore
+2025-10-20,C0223,67,Male,Perfume,Beauty,1,48.00,48.00,Cash,Coimbatore
+2025-10-14,C0316,65,Male,Smart Watch,Electronics,2,129.00,258.00,Cash,Bengaluru
+2025-05-17,C0058,60,Female,Sunscreen,Beauty,2,15.99,31.98,UPI,Kochi
+2025-04-08,C0180,57,Male,T-Shirt,Clothing,3,19.99,59.97,Online,Hyderabad
+2025-08-14,C0044,25,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Cash,Hyderabad
+2025-05-28,C0170,31,Male,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Mumbai
+2025-10-07,C0073,62,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Card,Pune
+2025-10-26,C0103,68,Male,Coffee Beans,Grocery,2,14.99,29.98,UPI,Chennai
+2025-08-27,C0340,60,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Chennai
+2025-05-30,C0051,38,Female,Green Tea,Grocery,1,8.50,8.50,Card,Hyderabad
+2025-04-12,C0021,33,Male,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Kochi
+2025-09-08,C0182,58,Female,Jeans,Clothing,1,49.99,49.99,UPI,Chennai
+2025-11-17,C0016,53,Male,Running Shoes,Clothing,3,74.00,222.00,Cash,Hyderabad
+2025-06-24,C0348,57,Male,Olive Oil,Grocery,1,12.50,12.50,Cash,Pune
+2025-05-04,C0169,46,Male,Storage Box,Home & Kitchen,5,12.99,64.95,Cash,Hyderabad
+2025-10-25,C0269,26,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Cash,Hyderabad
+2025-06-12,C0075,64,Female,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Pune
+2025-07-30,C0068,29,Female,Hoodie,Clothing,1,44.50,44.50,UPI,Mumbai
+2025-11-02,C0245,26,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Kochi
+2025-04-05,C0116,20,Female,Green Tea,Grocery,1,8.50,8.50,Card,Delhi
+2025-07-31,C0225,57,Female,Jeans,Clothing,3,49.99,149.97,UPI,Coimbatore
+2025-05-07,C0161,43,Male,T-Shirt,Clothing,2,19.99,39.98,Card,Bengaluru
+2025-08-20,C0276,43,Other,T-Shirt,Clothing,3,19.99,59.97,Card,Pune
+2025-09-22,C0156,67,Male,Face Moisturizer,Beauty,1,24.99,24.99,Online,Hyderabad
+2025-08-05,C0238,59,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Hyderabad
+2025-10-27,C0013,29,Female,Olive Oil,Grocery,1,12.50,12.50,Cash,Coimbatore
+2025-02-16,C0059,63,Female,Jeans,Clothing,3,49.99,149.97,UPI,Bengaluru
+2025-09-26,C0088,39,Male,Shampoo,Beauty,1,11.50,11.50,Cash,Hyderabad
+2025-03-16,C0229,36,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Hyderabad
+2025-04-14,C0256,52,Male,USB-C Charger,Electronics,1,18.99,18.99,Online,Mumbai
+2025-04-22,C0308,56,Female,Storage Box,Home & Kitchen,1,12.99,12.99,UPI,Mumbai
+2025-01-26,C0017,60,Male,Wireless Headphones,Electronics,3,59.99,179.97,UPI,Kochi
+2025-02-14,C0146,57,Male,Smart Watch,Electronics,5,129.00,645.00,Cash,Coimbatore
+2025-10-24,C0189,42,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Bengaluru
+2025-05-30,C0270,44,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Chennai
+2025-02-25,C0148,45,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Delhi
+2025-09-27,C0255,51,Male,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Online,Coimbatore
+2025-04-03,C0001,25,Female,Olive Oil,Grocery,2,12.50,25.00,Card,Mumbai
+2025-11-12,C0327,31,Female,Green Tea,Grocery,1,8.50,8.50,Cash,Delhi
+2025-05-11,C0004,25,Male,Sunscreen,Beauty,1,15.99,15.99,UPI,Pune
+2025-10-19,C0174,61,Female,Coffee Maker,Home & Kitchen,3,69.99,209.97,Online,Chennai
+2025-11-27,C0275,39,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Chennai
+2025-09-24,C0296,61,Female,Hoodie,Clothing,3,44.50,133.50,UPI,Bengaluru
+2025-03-18,C0274,28,Male,T-Shirt,Clothing,1,19.99,19.99,Online,Hyderabad
+2025-11-01,C0017,35,Female,USB-C Charger,Electronics,2,18.99,37.98,Online,Mumbai
+2025-07-10,C0058,41,Male,Hoodie,Clothing,1,44.50,44.50,Cash,Bengaluru
+2025-08-16,C0175,48,Male,Storage Box,Home & Kitchen,5,12.99,64.95,UPI,Kochi
+2025-03-15,C0347,26,Female,Face Moisturizer,Beauty,3,24.99,74.97,Card,Coimbatore
+2025-07-18,C0352,56,Male,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Coimbatore
+2025-01-24,C0328,31,Female,USB-C Charger,Electronics,1,18.99,18.99,Cash,Delhi
+2025-05-22,C0081,35,Female,Storage Box,Home & Kitchen,2,12.99,25.98,Card,Mumbai
+2025-10-05,C0146,54,Female,Hoodie,Clothing,1,44.50,44.50,Card,Delhi
+2025-11-10,C0346,21,Female,Green Tea,Grocery,2,8.50,17.00,Card,Bengaluru
+2025-08-07,C0102,63,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Coimbatore
+2025-10-18,C0330,63,Male,Smart Watch,Electronics,1,129.00,129.00,Online,Mumbai
+2025-04-25,C0359,60,Female,USB-C Charger,Electronics,4,18.99,75.96,UPI,Coimbatore
+2025-09-07,C0088,36,Male,Smart Watch,Electronics,1,129.00,129.00,Cash,Bengaluru
+2025-07-27,C0155,52,Female,Coffee Beans,Grocery,1,14.99,14.99,Online,Mumbai
+2025-11-14,C0175,31,Male,Jeans,Clothing,5,49.99,249.95,Online,Pune
+2025-10-18,C0294,49,Female,Shampoo,Beauty,1,11.50,11.50,Online,Kochi
+2025-10-12,C0036,56,Female,Smart Watch,Electronics,1,129.00,129.00,Online,Kochi
+2025-09-11,C0298,66,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Hyderabad
+2025-12-05,C0101,31,Male,USB-C Charger,Electronics,1,18.99,18.99,UPI,Delhi
+2025-10-19,C0177,23,Male,Sunscreen,Beauty,4,15.99,63.96,Online,Hyderabad
+2025-05-31,C0184,25,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Mumbai
+2025-08-10,C0208,42,Female,Perfume,Beauty,2,48.00,96.00,Cash,Hyderabad
+2025-09-01,C0214,27,Female,Smart Watch,Electronics,3,129.00,387.00,Cash,Hyderabad
+2025-01-06,C0337,45,Other,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Bengaluru
+2025-03-12,C0357,56,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Cash,Coimbatore
+2025-09-18,C0218,56,Female,Running Shoes,Clothing,1,74.00,74.00,Online,Mumbai
+2025-12-31,C0018,20,Male,Storage Box,Home & Kitchen,4,12.99,51.96,UPI,Bengaluru
+2025-10-25,C0144,47,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Mumbai
+2025-08-30,C0297,37,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Chennai
+2025-08-29,C0181,69,Female,Running Shoes,Clothing,2,74.00,148.00,Cash,Chennai
+2025-12-22,C0032,58,Female,Snack Box,Grocery,2,9.99,19.98,Cash,Chennai
+2025-12-03,C0259,22,Male,Coffee Beans,Grocery,2,14.99,29.98,UPI,Delhi
+2025-03-09,C0058,56,Female,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Cash,Coimbatore
+2025-07-09,C0093,69,Male,Snack Box,Grocery,3,9.99,29.97,Card,Kochi
+2025-02-13,C0212,67,Female,Olive Oil,Grocery,3,12.50,37.50,Online,Hyderabad
+2025-04-18,C0060,21,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-06-04,C0243,34,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Online,Chennai
+2025-05-28,C0272,61,Male,Green Tea,Grocery,1,8.50,8.50,Card,Kochi
+2025-08-10,C0051,34,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-12-12,C0093,38,Male,Shampoo,Beauty,2,11.50,23.00,Card,Bengaluru
+2025-01-07,C0146,34,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Bengaluru
+2025-01-30,C0062,23,Male,Olive Oil,Grocery,4,12.50,50.00,Cash,Pune
+2025-12-03,C0130,36,Female,Shampoo,Beauty,3,11.50,34.50,Card,Coimbatore
+2025-05-22,C0142,67,Female,Sunscreen,Beauty,1,15.99,15.99,Online,Kochi
+2025-01-31,C0103,57,Female,Hoodie,Clothing,2,44.50,89.00,Online,Bengaluru
+2025-03-15,C0227,63,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Card,Bengaluru
+2025-02-06,C0255,27,Male,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Card,Chennai
+2025-12-07,C0295,18,Male,Jeans,Clothing,2,49.99,99.98,Online,Coimbatore
+2025-08-12,C0353,70,Male,T-Shirt,Clothing,3,19.99,59.97,Card,Kochi
+2025-06-20,C0332,23,Female,Perfume,Beauty,1,48.00,48.00,UPI,Bengaluru
+2025-08-24,C0021,42,Male,Sunscreen,Beauty,2,15.99,31.98,UPI,Pune
+2025-02-24,C0225,65,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Card,Mumbai
+2025-01-13,C0277,59,Female,Shampoo,Beauty,3,11.50,34.50,Online,Chennai
+2025-01-19,C0061,31,Male,Hoodie,Clothing,4,44.50,178.00,Online,Hyderabad
+2025-10-24,C0335,19,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Mumbai
+2025-12-26,C0158,70,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Online,Hyderabad
+2025-10-30,C0316,32,Female,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Pune
+2025-06-22,C0295,52,Female,Green Tea,Grocery,1,8.50,8.50,Cash,Chennai
+2025-10-31,C0213,28,Male,Wireless Headphones,Electronics,2,59.99,119.98,Cash,Coimbatore
+2025-05-05,C0324,57,Female,Coffee Beans,Grocery,1,14.99,14.99,Cash,Chennai
+2025-09-07,C0334,55,Male,Wireless Headphones,Electronics,2,59.99,119.98,Online,Coimbatore
+2025-12-21,C0211,33,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Card,Hyderabad
+2025-09-13,C0179,44,Female,Coffee Maker,Home & Kitchen,2,69.99,139.98,Cash,Mumbai
+2025-03-02,C0277,50,Female,Coffee Beans,Grocery,2,14.99,29.98,Cash,Delhi
+2025-01-28,C0243,49,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Card,Chennai
+2025-11-27,C0233,20,Female,Jeans,Clothing,1,49.99,49.99,Card,Hyderabad
+2025-03-22,C0121,64,Female,Perfume,Beauty,3,48.00,144.00,UPI,Pune
+2025-04-12,C0117,24,Female,Sunscreen,Beauty,2,15.99,31.98,Online,Mumbai
+2025-07-12,C0224,27,Female,Coffee Beans,Grocery,1,14.99,14.99,Online,Hyderabad
+2025-07-18,C0139,30,Female,Running Shoes,Clothing,2,74.00,148.00,Card,Chennai
+2025-05-24,C0176,32,Male,Smart Watch,Electronics,2,129.00,258.00,Cash,Hyderabad
+2025-10-23,C0251,31,Male,Olive Oil,Grocery,1,12.50,12.50,Online,Delhi
+2025-01-08,C0114,55,Male,Shampoo,Beauty,1,11.50,11.50,Card,Pune
+2025-01-23,C0218,51,Female,Smart Watch,Electronics,2,129.00,258.00,Card,Coimbatore
+2025-09-11,C0112,26,Female,T-Shirt,Clothing,2,19.99,39.98,Cash,Bengaluru
+2025-01-09,C0293,65,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-03-12,C0321,47,Male,Green Tea,Grocery,1,8.50,8.50,Card,Bengaluru
+2025-07-17,C0139,62,Male,Snack Box,Grocery,2,9.99,19.98,Cash,Bengaluru
+2025-11-14,C0187,21,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Coimbatore
+2025-11-13,C0035,53,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Hyderabad
+2025-06-21,C0298,62,Female,T-Shirt,Clothing,2,19.99,39.98,Cash,Kochi
+2025-06-30,C0177,46,Female,Green Tea,Grocery,2,8.50,17.00,Card,Coimbatore
+2025-12-30,C0345,62,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Card,Mumbai
+2025-08-23,C0040,24,Female,Smart Watch,Electronics,3,129.00,387.00,Card,Hyderabad
+2025-09-12,C0151,44,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Cash,Coimbatore
+2025-06-27,C0119,51,Male,T-Shirt,Clothing,2,19.99,39.98,Online,Kochi
+2025-12-02,C0272,53,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,UPI,Hyderabad
+2025-06-06,C0148,67,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Kochi
+2025-05-26,C0275,36,Female,Jeans,Clothing,3,49.99,149.97,Cash,Hyderabad
+2025-03-24,C0226,34,Female,T-Shirt,Clothing,5,19.99,99.95,Cash,Chennai
+2025-12-07,C0084,52,Female,Hoodie,Clothing,1,44.50,44.50,Card,Pune
+2025-09-13,C0280,50,Female,Perfume,Beauty,5,48.00,240.00,UPI,Coimbatore
+2025-05-29,C0227,39,Male,Olive Oil,Grocery,3,12.50,37.50,Online,Chennai
+2025-03-13,C0113,46,Female,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Chennai
+2025-11-08,C0101,19,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Online,Bengaluru
+2025-09-20,C0029,60,Female,Running Shoes,Clothing,1,74.00,74.00,Cash,Pune
+2025-07-09,C0229,53,Female,T-Shirt,Clothing,1,19.99,19.99,Online,Pune
+2025-08-15,C0301,56,Female,Running Shoes,Clothing,2,74.00,148.00,Cash,Delhi
+2025-09-01,C0193,23,Female,Snack Box,Grocery,1,9.99,9.99,UPI,Pune
+2025-03-31,C0149,53,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,UPI,Delhi
+2025-09-10,C0079,34,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Bengaluru
+2025-12-01,C0353,59,Female,Sunscreen,Beauty,1,15.99,15.99,Card,Delhi
+2025-09-10,C0247,54,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Coimbatore
+2025-12-22,C0133,28,Male,Snack Box,Grocery,2,9.99,19.98,Cash,Kochi
+2025-08-25,C0185,44,Male,Olive Oil,Grocery,2,12.50,25.00,UPI,Chennai
+2025-05-29,C0094,66,Female,T-Shirt,Clothing,2,19.99,39.98,Cash,Kochi
+2025-06-11,C0186,24,Male,Snack Box,Grocery,1,9.99,9.99,UPI,Hyderabad
+2025-01-07,C0175,28,Female,USB-C Charger,Electronics,1,18.99,18.99,Cash,Mumbai
+2025-04-07,C0060,70,Female,Face Moisturizer,Beauty,1,24.99,24.99,Card,Coimbatore
+2025-06-28,C0306,51,Male,Hoodie,Clothing,1,44.50,44.50,UPI,Hyderabad
+2025-12-30,C0073,62,Female,T-Shirt,Clothing,1,19.99,19.99,Cash,Mumbai
+2025-03-08,C0040,19,Male,Green Tea,Grocery,2,8.50,17.00,Online,Chennai
+2025-04-11,C0023,22,Female,Wireless Headphones,Electronics,1,59.99,59.99,Card,Bengaluru
+2025-03-05,C0344,40,Female,Olive Oil,Grocery,2,12.50,25.00,Cash,Delhi
+2025-10-24,C0314,33,Male,Jeans,Clothing,3,49.99,149.97,Card,Bengaluru
+2025-10-24,C0088,66,Male,Shampoo,Beauty,2,11.50,23.00,Card,Mumbai
+2025-09-16,C0226,61,Male,Green Tea,Grocery,1,8.50,8.50,Cash,Kochi
+2025-07-14,C0161,25,Female,Jeans,Clothing,1,49.99,49.99,Cash,Coimbatore
+2025-07-04,C0198,36,Female,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Coimbatore
+2025-04-26,C0036,69,Female,Bed Sheet Set,Home & Kitchen,5,54.00,270.00,UPI,Hyderabad
+2025-01-07,C0268,60,Male,Green Tea,Grocery,2,8.50,17.00,Card,Hyderabad
+2025-07-22,C0087,22,Female,T-Shirt,Clothing,2,19.99,39.98,Cash,Kochi
+2025-04-13,C0256,35,Male,Storage Box,Home & Kitchen,1,12.99,12.99,UPI,Pune
+2025-07-02,C0076,67,Female,Storage Box,Home & Kitchen,5,12.99,64.95,Card,Delhi
+2025-09-08,C0035,49,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Pune
+2025-11-06,C0040,60,Male,Shampoo,Beauty,1,11.50,11.50,Online,Coimbatore
+2025-04-14,C0176,69,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Chennai
+2025-08-09,C0193,46,Female,Coffee Beans,Grocery,1,14.99,14.99,Card,Hyderabad
+2025-10-13,C0221,26,Female,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Online,Coimbatore
+2025-02-26,C0293,48,Female,Storage Box,Home & Kitchen,2,12.99,25.98,Cash,Chennai
+2025-07-20,C0146,38,Female,Running Shoes,Clothing,2,74.00,148.00,Card,Hyderabad
+2025-07-07,C0195,24,Female,T-Shirt,Clothing,3,19.99,59.97,UPI,Pune
+2025-06-29,C0304,23,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Card,Delhi
+2025-02-28,C0337,45,Male,T-Shirt,Clothing,3,19.99,59.97,Online,Delhi
+2025-01-11,C0200,38,Male,Face Moisturizer,Beauty,5,24.99,124.95,Online,Bengaluru
+2025-12-20,C0342,39,Female,Sunscreen,Beauty,2,15.99,31.98,UPI,Kochi
+2025-08-12,C0148,34,Female,Wireless Headphones,Electronics,3,59.99,179.97,Online,Mumbai
+2025-11-16,C0304,39,Female,Face Moisturizer,Beauty,2,24.99,49.98,Online,Pune
+2025-04-18,C0154,45,Male,T-Shirt,Clothing,2,19.99,39.98,UPI,Mumbai
+2025-08-01,C0010,58,Male,Running Shoes,Clothing,2,74.00,148.00,Cash,Coimbatore
+2025-04-20,C0315,67,Male,Perfume,Beauty,1,48.00,48.00,Card,Mumbai
+2025-07-06,C0154,45,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Mumbai
+2025-07-31,C0308,33,Female,Hoodie,Clothing,2,44.50,89.00,Card,Hyderabad
+2025-04-09,C0224,45,Male,USB-C Charger,Electronics,1,18.99,18.99,Card,Mumbai
+2025-03-23,C0338,53,Female,T-Shirt,Clothing,1,19.99,19.99,Card,Coimbatore
+2025-01-11,C0033,44,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Pune
+2025-03-13,C0269,34,Male,T-Shirt,Clothing,2,19.99,39.98,Card,Mumbai
+2025-11-04,C0200,69,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Pune
+2025-04-22,C0210,34,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Card,Coimbatore
+2025-10-01,C0350,33,Male,T-Shirt,Clothing,1,19.99,19.99,Cash,Kochi
+2025-09-01,C0311,20,Male,Sunscreen,Beauty,1,15.99,15.99,Card,Mumbai
+2025-05-10,C0351,25,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Cash,Coimbatore
+2025-07-18,C0155,23,Male,Smart Watch,Electronics,4,129.00,516.00,Cash,Delhi
+2025-04-18,C0330,44,Male,Olive Oil,Grocery,4,12.50,50.00,UPI,Bengaluru
+2025-09-09,C0217,70,Female,Storage Box,Home & Kitchen,4,12.99,51.96,Cash,Delhi
+2025-09-17,C0168,47,Male,Smart Watch,Electronics,2,129.00,258.00,Card,Hyderabad
+2025-11-19,C0157,38,Male,Jeans,Clothing,1,49.99,49.99,Card,Hyderabad
+2025-05-08,C0164,46,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Cash,Delhi
+2025-03-30,C0213,41,Female,Sunscreen,Beauty,3,15.99,47.97,Online,Mumbai
+2025-01-11,C0102,34,Male,Olive Oil,Grocery,4,12.50,50.00,Cash,Chennai
+2025-07-25,C0088,54,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Online,Coimbatore
+2025-12-11,C0137,36,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,Online,Hyderabad
+2025-08-09,C0347,30,Female,Olive Oil,Grocery,5,12.50,62.50,Online,Hyderabad
+2025-01-15,C0128,41,Male,Hoodie,Clothing,1,44.50,44.50,Online,Bengaluru
+2025-01-06,C0109,63,Female,Bed Sheet Set,Home & Kitchen,5,54.00,270.00,Online,Delhi
+2025-02-07,C0242,40,Other,Wireless Headphones,Electronics,1,59.99,59.99,Card,Chennai
+2025-05-10,C0190,26,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Card,Hyderabad
+2025-05-14,C0068,23,Female,Smart Watch,Electronics,4,129.00,516.00,Online,Hyderabad
+2025-05-14,C0144,65,Female,Wireless Headphones,Electronics,5,59.99,299.95,Online,Delhi
+2025-05-15,C0085,38,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Online,Hyderabad
+2025-10-12,C0118,29,Female,Green Tea,Grocery,2,8.50,17.00,UPI,Hyderabad
+2025-12-28,C0021,46,Female,Coffee Maker,Home & Kitchen,5,69.99,349.95,Online,Coimbatore
+2025-09-10,C0146,29,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,UPI,Mumbai
+2025-10-26,C0214,22,Female,Coffee Beans,Grocery,2,14.99,29.98,Online,Bengaluru
+2025-06-18,C0055,38,Female,Wireless Headphones,Electronics,1,59.99,59.99,Card,Coimbatore
+2025-12-29,C0337,18,Female,Storage Box,Home & Kitchen,2,12.99,25.98,Card,Coimbatore
+2025-06-16,C0330,36,Female,Olive Oil,Grocery,2,12.50,25.00,Card,Bengaluru
+2025-10-08,C0123,67,Male,Green Tea,Grocery,1,8.50,8.50,Card,Chennai
+2025-04-17,C0335,27,Female,Smart Watch,Electronics,1,129.00,129.00,Online,Pune
+2025-06-08,C0189,50,Female,Olive Oil,Grocery,2,12.50,25.00,Online,Pune
+2025-09-01,C0189,57,Female,Running Shoes,Clothing,1,74.00,74.00,Online,Bengaluru
+2025-01-21,C0080,49,Male,Storage Box,Home & Kitchen,2,12.99,25.98,Card,Delhi
+2025-08-28,C0351,37,Male,Running Shoes,Clothing,1,74.00,74.00,Online,Delhi
+2025-10-19,C0262,45,Female,Wireless Headphones,Electronics,4,59.99,239.96,Online,Delhi
+2025-07-01,C0339,47,Female,T-Shirt,Clothing,4,19.99,79.96,Cash,Pune
+2025-01-24,C0344,46,Male,USB-C Charger,Electronics,1,18.99,18.99,UPI,Kochi
+2025-04-06,C0345,24,Female,Wireless Headphones,Electronics,2,59.99,119.98,Card,Chennai
+2025-07-22,C0208,60,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Delhi
+2025-11-13,C0346,43,Male,Snack Box,Grocery,2,9.99,19.98,Card,Hyderabad
+2025-03-11,C0097,19,Female,Wireless Headphones,Electronics,3,59.99,179.97,Cash,Mumbai
+2025-08-12,C0076,48,Female,Olive Oil,Grocery,1,12.50,12.50,Card,Hyderabad
+2025-03-20,C0231,55,Female,Perfume,Beauty,4,48.00,192.00,UPI,Pune
+2025-01-27,C0213,49,Male,T-Shirt,Clothing,2,19.99,39.98,UPI,Chennai
+2025-09-07,C0010,45,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Delhi
+2025-11-28,C0331,40,Female,Running Shoes,Clothing,1,74.00,74.00,Online,Chennai
+2025-03-24,C0260,32,Male,Jeans,Clothing,1,49.99,49.99,UPI,Coimbatore
+2025-03-09,C0345,59,Male,Green Tea,Grocery,4,8.50,34.00,Online,Hyderabad
+2025-11-15,C0103,28,Male,Wireless Headphones,Electronics,3,59.99,179.97,Card,Pune
+2025-09-10,C0184,34,Female,Jeans,Clothing,2,49.99,99.98,Cash,Hyderabad
+2025-09-15,C0117,25,Male,Wireless Headphones,Electronics,2,59.99,119.98,Online,Delhi
+2025-06-24,C0078,62,Male,Face Moisturizer,Beauty,3,24.99,74.97,Card,Chennai
+2025-08-13,C0313,68,Male,Face Moisturizer,Beauty,5,24.99,124.95,Card,Chennai
+2025-09-17,C0081,64,Female,Wireless Headphones,Electronics,3,59.99,179.97,Online,Coimbatore
+2025-02-20,C0104,46,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Mumbai
+2025-08-31,C0213,41,Male,Jeans,Clothing,1,49.99,49.99,Cash,Hyderabad
+2025-09-29,C0210,47,Male,Jeans,Clothing,1,49.99,49.99,UPI,Chennai
+2025-08-15,C0036,23,Female,Wireless Headphones,Electronics,2,59.99,119.98,Online,Hyderabad
+2025-08-11,C0295,21,Other,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Pune
+2025-07-25,C0177,18,Male,Snack Box,Grocery,2,9.99,19.98,Cash,Pune
+2025-08-17,C0333,43,Male,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Bengaluru
+2025-01-19,C0065,51,Other,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Mumbai
+2025-02-17,C0082,19,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,UPI,Mumbai
+2025-06-05,C0133,58,Male,Face Moisturizer,Beauty,2,24.99,49.98,Card,Chennai
+2025-11-30,C0233,39,Other,Green Tea,Grocery,1,8.50,8.50,Cash,Kochi
+2025-06-03,C0127,24,Female,Jeans,Clothing,2,49.99,99.98,Cash,Kochi
+2025-08-21,C0032,45,Male,Smart Watch,Electronics,4,129.00,516.00,Online,Mumbai
+2025-08-17,C0203,34,Male,Smart Watch,Electronics,2,129.00,258.00,Online,Coimbatore
+2025-12-19,C0084,27,Male,Green Tea,Grocery,2,8.50,17.00,Online,Coimbatore
+2025-03-08,C0017,65,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Bengaluru
+2025-11-05,C0021,51,Female,Coffee Beans,Grocery,1,14.99,14.99,UPI,Delhi
+2025-07-11,C0302,44,Female,Running Shoes,Clothing,2,74.00,148.00,UPI,Delhi
+2025-04-21,C0035,20,Female,Smart Watch,Electronics,1,129.00,129.00,UPI,Coimbatore
+2025-06-22,C0068,66,Female,Perfume,Beauty,3,48.00,144.00,Online,Coimbatore
+2025-12-08,C0320,44,Female,Hoodie,Clothing,1,44.50,44.50,Online,Kochi
+2025-10-04,C0085,63,Female,Smart Watch,Electronics,2,129.00,258.00,UPI,Bengaluru
+2025-11-26,C0028,54,Male,Water Bottle,Home & Kitchen,4,16.50,66.00,Online,Chennai
+2025-03-03,C0106,33,Male,Water Bottle,Home & Kitchen,4,16.50,66.00,Online,Bengaluru
+2025-10-01,C0012,39,Female,Storage Box,Home & Kitchen,2,12.99,25.98,Online,Chennai
+2025-09-28,C0278,28,Female,Hoodie,Clothing,1,44.50,44.50,Cash,Delhi
+2025-02-15,C0167,29,Female,Smart Watch,Electronics,3,129.00,387.00,Card,Delhi
+2025-07-19,C0193,70,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Card,Mumbai
+2025-05-03,C0198,25,Female,Shampoo,Beauty,2,11.50,23.00,UPI,Coimbatore
+2025-10-11,C0010,35,Male,Running Shoes,Clothing,1,74.00,74.00,Card,Mumbai
+2025-10-12,C0043,58,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Kochi
+2025-10-04,C0285,46,Female,Olive Oil,Grocery,2,12.50,25.00,Online,Delhi
+2025-12-01,C0140,56,Female,Coffee Beans,Grocery,1,14.99,14.99,Online,Kochi
+2025-11-20,C0289,22,Female,USB-C Charger,Electronics,1,18.99,18.99,Online,Bengaluru
+2025-03-13,C0259,69,Female,Sunscreen,Beauty,3,15.99,47.97,UPI,Delhi
+2025-12-29,C0108,47,Male,Jeans,Clothing,2,49.99,99.98,UPI,Chennai
+2025-12-21,C0005,61,Female,Wireless Headphones,Electronics,3,59.99,179.97,Online,Pune
+2025-10-03,C0344,46,Male,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Pune
+2025-11-04,C0005,25,Female,Jeans,Clothing,3,49.99,149.97,Cash,Coimbatore
+2025-01-05,C0184,30,Female,T-Shirt,Clothing,2,19.99,39.98,UPI,Mumbai
+2025-04-30,C0311,31,Female,Snack Box,Grocery,1,9.99,9.99,Online,Bengaluru
+2025-05-23,C0290,61,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Cash,Bengaluru
+2025-10-29,C0117,51,Male,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Mumbai
+2025-12-14,C0002,45,Male,USB-C Charger,Electronics,2,18.99,37.98,Card,Kochi
+2025-08-10,C0239,49,Female,Green Tea,Grocery,1,8.50,8.50,Card,Mumbai
+2025-01-25,C0201,30,Female,Running Shoes,Clothing,2,74.00,148.00,Card,Mumbai
+2025-12-20,C0169,37,Female,T-Shirt,Clothing,4,19.99,79.96,Card,Chennai
+2025-09-03,C0172,34,Female,T-Shirt,Clothing,2,19.99,39.98,Online,Mumbai
+2025-06-24,C0038,67,Male,Snack Box,Grocery,2,9.99,19.98,Online,Bengaluru
+2025-11-17,C0018,42,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Hyderabad
+2025-02-01,C0222,22,Female,Green Tea,Grocery,1,8.50,8.50,Card,Chennai
+2025-05-31,C0120,56,Male,Green Tea,Grocery,1,8.50,8.50,Card,Coimbatore
+2025-07-16,C0174,59,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Card,Coimbatore
+2025-09-22,C0035,55,Male,Jeans,Clothing,2,49.99,99.98,Cash,Hyderabad
+2025-11-23,C0228,29,Female,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,Card,Chennai
+2025-03-07,C0184,37,Male,Running Shoes,Clothing,2,74.00,148.00,Cash,Hyderabad
+2025-08-29,C0266,55,Male,Hoodie,Clothing,1,44.50,44.50,Cash,Chennai
+2025-05-02,C0103,58,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Kochi
+2025-04-07,C0297,54,Male,Perfume,Beauty,2,48.00,96.00,UPI,Pune
+2025-06-18,C0254,32,Male,Smart Watch,Electronics,3,129.00,387.00,Cash,Mumbai
+2025-08-27,C0170,69,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,Cash,Pune
+2025-04-05,C0016,53,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Coimbatore
+2025-04-10,C0102,36,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,UPI,Hyderabad
+2025-06-23,C0135,24,Female,Olive Oil,Grocery,2,12.50,25.00,Cash,Pune
+2025-12-02,C0234,33,Female,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Hyderabad
+2025-09-27,C0074,26,Male,Green Tea,Grocery,4,8.50,34.00,Cash,Pune
+2025-12-22,C0024,66,Male,Running Shoes,Clothing,5,74.00,370.00,Cash,Delhi
+2025-03-18,C0065,50,Male,T-Shirt,Clothing,2,19.99,39.98,Online,Mumbai
+2025-02-11,C0331,66,Male,Face Moisturizer,Beauty,1,24.99,24.99,Online,Coimbatore
+2025-04-02,C0254,48,Female,Hoodie,Clothing,2,44.50,89.00,Online,Chennai
+2025-04-17,C0112,37,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Hyderabad
+2025-07-11,C0228,51,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Coimbatore
+2025-09-20,C0189,69,Male,Storage Box,Home & Kitchen,1,12.99,12.99,UPI,Pune
+2025-01-13,C0043,36,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Card,Delhi
+2025-04-27,C0171,30,Male,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Delhi
+2025-12-16,C0279,34,Female,Olive Oil,Grocery,2,12.50,25.00,UPI,Delhi
+2025-06-27,C0336,18,Female,Perfume,Beauty,4,48.00,192.00,Cash,Pune
+2025-04-27,C0283,66,Female,Jeans,Clothing,1,49.99,49.99,Online,Kochi
+2025-02-13,C0214,31,Female,Jeans,Clothing,1,49.99,49.99,Card,Kochi
+2025-03-13,C0256,69,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,UPI,Kochi
+2025-04-26,C0154,38,Male,Running Shoes,Clothing,3,74.00,222.00,Card,Hyderabad
+2025-03-20,C0312,54,Male,Snack Box,Grocery,2,9.99,19.98,Online,Mumbai
+2025-07-20,C0292,46,Male,Smart Watch,Electronics,2,129.00,258.00,UPI,Bengaluru
+2025-03-29,C0251,19,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Card,Pune
+2025-05-26,C0030,41,Male,USB-C Charger,Electronics,3,18.99,56.97,Cash,Kochi
+2025-07-30,C0036,42,Male,T-Shirt,Clothing,1,19.99,19.99,Cash,Hyderabad
+2025-04-16,C0159,55,Female,Running Shoes,Clothing,1,74.00,74.00,Online,Delhi
+2025-04-14,C0310,69,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Coimbatore
+2025-08-24,C0234,40,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Pune
+2025-11-10,C0317,64,Female,Olive Oil,Grocery,2,12.50,25.00,Online,Hyderabad
+2025-12-24,C0081,35,Male,Storage Box,Home & Kitchen,3,12.99,38.97,UPI,Bengaluru
+2025-12-24,C0284,25,Other,Shampoo,Beauty,4,11.50,46.00,Card,Bengaluru
+2025-09-16,C0107,50,Female,Sunscreen,Beauty,1,15.99,15.99,Card,Bengaluru
+2025-11-24,C0100,43,Female,Perfume,Beauty,1,48.00,48.00,UPI,Bengaluru
+2025-12-30,C0237,22,Female,Snack Box,Grocery,2,9.99,19.98,Cash,Coimbatore
+2025-03-13,C0010,56,Female,Bed Sheet Set,Home & Kitchen,3,54.00,162.00,UPI,Bengaluru
+2025-10-01,C0347,35,Female,Shampoo,Beauty,1,11.50,11.50,UPI,Hyderabad
+2025-04-21,C0326,69,Male,Shampoo,Beauty,2,11.50,23.00,Card,Pune
+2025-12-20,C0194,67,Female,T-Shirt,Clothing,3,19.99,59.97,Cash,Kochi
+2025-05-03,C0173,70,Female,Wireless Headphones,Electronics,1,59.99,59.99,Card,Mumbai
+2025-02-19,C0263,24,Male,Shampoo,Beauty,3,11.50,34.50,UPI,Mumbai
+2025-11-16,C0110,24,Female,Smart Watch,Electronics,5,129.00,645.00,Cash,Chennai
+2025-07-25,C0034,60,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,UPI,Chennai
+2025-02-04,C0053,63,Male,Green Tea,Grocery,1,8.50,8.50,Cash,Delhi
+2025-02-18,C0356,26,Female,Storage Box,Home & Kitchen,2,12.99,25.98,UPI,Coimbatore
+2025-02-04,C0120,50,Male,Running Shoes,Clothing,1,74.00,74.00,Card,Mumbai
+2025-01-11,C0125,57,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Kochi
+2025-09-13,C0122,64,Male,Jeans,Clothing,1,49.99,49.99,Online,Kochi
+2025-03-10,C0332,70,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Mumbai
+2025-06-19,C0341,33,Male,Jeans,Clothing,2,49.99,99.98,Cash,Pune
+2025-09-24,C0252,22,Male,Running Shoes,Clothing,3,74.00,222.00,Card,Hyderabad
+2025-04-15,C0105,33,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Coimbatore
+2025-06-09,C0128,37,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Mumbai
+2025-05-20,C0204,42,Female,Green Tea,Grocery,1,8.50,8.50,Online,Pune
+2025-09-16,C0247,19,Male,Storage Box,Home & Kitchen,3,12.99,38.97,Online,Bengaluru
+2025-06-03,C0195,47,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,UPI,Pune
+2025-10-15,C0101,27,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Chennai
+2025-09-14,C0203,65,Female,Sunscreen,Beauty,2,15.99,31.98,Online,Delhi
+2025-11-25,C0064,42,Male,Coffee Beans,Grocery,2,14.99,29.98,Cash,Mumbai
+2025-08-12,C0353,41,Male,Snack Box,Grocery,2,9.99,19.98,Online,Pune
+2025-05-07,C0347,19,Male,T-Shirt,Clothing,4,19.99,79.96,Cash,Delhi
+2025-11-06,C0340,28,Female,Jeans,Clothing,1,49.99,49.99,Card,Pune
+2025-07-23,C0217,28,Male,Face Moisturizer,Beauty,2,24.99,49.98,UPI,Delhi
+2025-09-14,C0046,24,Male,Green Tea,Grocery,2,8.50,17.00,UPI,Hyderabad
+2025-05-18,C0087,70,Male,Perfume,Beauty,3,48.00,144.00,Card,Bengaluru
+2025-12-23,C0088,29,Female,Running Shoes,Clothing,2,74.00,148.00,Cash,Mumbai
+2025-09-07,C0096,30,Female,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Mumbai
+2025-05-13,C0056,58,Female,Green Tea,Grocery,1,8.50,8.50,UPI,Bengaluru
+2025-07-13,C0245,49,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Chennai
+2025-02-01,C0022,24,Female,T-Shirt,Clothing,2,19.99,39.98,Card,Pune
+2025-11-05,C0173,56,Female,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,UPI,Kochi
+2025-06-11,C0030,40,Male,Snack Box,Grocery,2,9.99,19.98,Card,Chennai
+2025-08-22,C0072,19,Male,Green Tea,Grocery,2,8.50,17.00,UPI,Mumbai
+2025-07-08,C0002,58,Male,Running Shoes,Clothing,2,74.00,148.00,UPI,Chennai
+2025-11-21,C0348,46,Female,T-Shirt,Clothing,4,19.99,79.96,Online,Pune
+2025-11-10,C0244,60,Male,Sunscreen,Beauty,1,15.99,15.99,Card,Pune
+2025-05-31,C0259,20,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Card,Delhi
+2025-12-11,C0060,48,Male,Green Tea,Grocery,1,8.50,8.50,Cash,Mumbai
+2025-04-19,C0015,28,Male,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Pune
+2025-05-24,C0344,25,Male,Hoodie,Clothing,2,44.50,89.00,Online,Bengaluru
+2025-12-21,C0308,22,Male,Jeans,Clothing,4,49.99,199.96,Online,Pune
+2025-12-01,C0060,36,Female,Storage Box,Home & Kitchen,3,12.99,38.97,Card,Kochi
+2025-10-31,C0161,42,Male,Coffee Beans,Grocery,3,14.99,44.97,Card,Delhi
+2025-02-01,C0164,67,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Cash,Mumbai
+2025-02-24,C0152,32,Male,Running Shoes,Clothing,1,74.00,74.00,Online,Hyderabad
+2025-11-04,C0353,25,Female,T-Shirt,Clothing,2,19.99,39.98,Online,Mumbai
+2025-09-11,C0079,70,Male,Running Shoes,Clothing,1,74.00,74.00,Cash,Chennai
+2025-04-02,C0082,19,Male,Green Tea,Grocery,1,8.50,8.50,UPI,Pune
+2025-12-14,C0271,64,Female,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Cash,Pune
+2025-02-19,C0235,59,Female,Wireless Headphones,Electronics,3,59.99,179.97,Cash,Coimbatore
+2025-12-23,C0101,65,Male,Water Bottle,Home & Kitchen,1,16.50,16.50,UPI,Bengaluru
+2025-12-14,C0348,28,Male,Shampoo,Beauty,1,11.50,11.50,Card,Kochi
+2025-08-31,C0174,55,Female,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Pune
+2025-05-06,C0306,29,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Bengaluru
+2025-08-26,C0189,18,Female,Green Tea,Grocery,1,8.50,8.50,Card,Bengaluru
+2025-09-08,C0294,48,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Card,Hyderabad
+2025-07-16,C0167,22,Male,Storage Box,Home & Kitchen,2,12.99,25.98,Cash,Pune
+2025-12-25,C0276,63,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Mumbai
+2025-12-04,C0003,53,Female,Olive Oil,Grocery,3,12.50,37.50,UPI,Bengaluru
+2025-01-21,C0132,66,Female,Bluetooth Speaker,Electronics,3,39.50,118.50,Card,Delhi
+2025-07-06,C0001,33,Female,Olive Oil,Grocery,1,12.50,12.50,UPI,Coimbatore
+2025-03-13,C0181,56,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Cash,Bengaluru
+2025-12-06,C0111,26,Male,Olive Oil,Grocery,2,12.50,25.00,Cash,Kochi
+2025-05-23,C0196,59,Male,Smart Watch,Electronics,1,129.00,129.00,Online,Coimbatore
+2025-02-12,C0105,22,Male,Green Tea,Grocery,5,8.50,42.50,UPI,Mumbai
+2025-07-10,C0223,42,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Cash,Bengaluru
+2025-05-19,C0169,58,Female,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Delhi
+2025-03-16,C0114,42,Male,Olive Oil,Grocery,2,12.50,25.00,Card,Hyderabad
+2025-09-27,C0049,51,Female,Sunscreen,Beauty,2,15.99,31.98,UPI,Delhi
+2025-11-08,C0200,29,Female,Wireless Headphones,Electronics,1,59.99,59.99,Online,Coimbatore
+2025-10-31,C0337,26,Female,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Chennai
+2025-11-24,C0235,29,Female,Olive Oil,Grocery,2,12.50,25.00,UPI,Coimbatore
+2025-09-15,C0118,37,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Delhi
+2025-07-28,C0123,23,Female,Face Moisturizer,Beauty,3,24.99,74.97,Card,Bengaluru
+2025-05-27,C0218,61,Male,Storage Box,Home & Kitchen,4,12.99,51.96,Cash,Coimbatore
+2025-09-12,C0004,63,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,UPI,Mumbai
+2025-12-05,C0346,66,Male,Coffee Beans,Grocery,2,14.99,29.98,Cash,Hyderabad
+2025-02-08,C0217,49,Female,Jeans,Clothing,2,49.99,99.98,UPI,Bengaluru
+2025-06-23,C0061,36,Female,Olive Oil,Grocery,3,12.50,37.50,UPI,Delhi
+2025-04-20,C0330,50,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Coimbatore
+2025-11-13,C0169,37,Female,Coffee Beans,Grocery,1,14.99,14.99,Card,Kochi
+2025-04-06,C0044,51,Male,T-Shirt,Clothing,1,19.99,19.99,Cash,Pune
+2025-03-05,C0116,48,Female,Coffee Beans,Grocery,1,14.99,14.99,UPI,Kochi
+2025-08-08,C0225,28,Female,Snack Box,Grocery,1,9.99,9.99,Online,Chennai
+2025-07-03,C0069,43,Female,Olive Oil,Grocery,1,12.50,12.50,UPI,Chennai
+2025-03-24,C0061,44,Female,Perfume,Beauty,4,48.00,192.00,Online,Hyderabad
+2025-06-16,C0200,26,Female,Perfume,Beauty,2,48.00,96.00,Card,Chennai
+2025-03-06,C0348,39,Female,Wireless Headphones,Electronics,3,59.99,179.97,Card,Pune
+2025-09-03,C0317,27,Male,Running Shoes,Clothing,1,74.00,74.00,Cash,Mumbai
+2025-05-24,C0220,30,Female,Sunscreen,Beauty,5,15.99,79.95,Card,Hyderabad
+2025-04-07,C0020,35,Other,Olive Oil,Grocery,2,12.50,25.00,Cash,Pune
+2025-01-10,C0269,37,Male,Coffee Maker,Home & Kitchen,3,69.99,209.97,Cash,Mumbai
+2025-06-22,C0156,25,Female,T-Shirt,Clothing,2,19.99,39.98,UPI,Kochi
+2025-12-31,C0001,21,Male,Hoodie,Clothing,4,44.50,178.00,UPI,Mumbai
+2025-05-27,C0252,41,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Bengaluru
+2025-12-09,C0186,65,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Mumbai
+2025-11-29,C0323,65,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Mumbai
+2025-04-09,C0176,37,Male,Face Moisturizer,Beauty,1,24.99,24.99,Cash,Hyderabad
+2025-01-23,C0287,40,Male,Smart Watch,Electronics,2,129.00,258.00,Online,Bengaluru
+2025-08-12,C0012,28,Male,Smart Watch,Electronics,2,129.00,258.00,Cash,Delhi
+2025-01-24,C0204,49,Male,Coffee Beans,Grocery,3,14.99,44.97,Card,Hyderabad
+2025-08-13,C0311,35,Female,Perfume,Beauty,2,48.00,96.00,Card,Hyderabad
+2025-10-20,C0234,50,Male,Wireless Headphones,Electronics,3,59.99,179.97,UPI,Delhi
+2025-04-23,C0024,52,Female,Hoodie,Clothing,2,44.50,89.00,Card,Hyderabad
+2025-05-23,C0128,70,Female,Snack Box,Grocery,4,9.99,39.96,Card,Chennai
+2025-11-29,C0282,34,Male,Hoodie,Clothing,1,44.50,44.50,Online,Delhi
+2025-06-16,C0144,29,Female,Coffee Beans,Grocery,3,14.99,44.97,Card,Bengaluru
+2025-12-19,C0283,31,Male,Hoodie,Clothing,3,44.50,133.50,Cash,Kochi
+2025-05-18,C0223,41,Female,Smart Watch,Electronics,1,129.00,129.00,Online,Bengaluru
+2025-09-11,C0292,49,Male,Bluetooth Speaker,Electronics,3,39.50,118.50,Cash,Delhi
+2025-01-11,C0097,22,Female,Jeans,Clothing,3,49.99,149.97,Online,Mumbai
+2025-08-21,C0007,56,Female,Green Tea,Grocery,1,8.50,8.50,Online,Chennai
+2025-02-26,C0138,27,Male,Coffee Beans,Grocery,1,14.99,14.99,Card,Chennai
+2025-02-24,C0072,48,Male,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Online,Hyderabad
+2025-06-07,C0137,58,Male,Jeans,Clothing,1,49.99,49.99,Card,Chennai
+2025-02-22,C0073,18,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Card,Mumbai
+2025-08-07,C0351,42,Male,Hoodie,Clothing,2,44.50,89.00,Card,Coimbatore
+2025-03-28,C0183,22,Male,Olive Oil,Grocery,1,12.50,12.50,Card,Kochi
+2025-02-13,C0308,29,Male,Olive Oil,Grocery,1,12.50,12.50,Cash,Delhi
+2025-11-16,C0256,60,Female,Snack Box,Grocery,3,9.99,29.97,UPI,Bengaluru
+2025-01-02,C0076,42,Female,Olive Oil,Grocery,4,12.50,50.00,Online,Bengaluru
+2025-02-27,C0066,29,Male,Bed Sheet Set,Home & Kitchen,1,54.00,54.00,UPI,Kochi
+2025-09-11,C0071,69,Male,Running Shoes,Clothing,2,74.00,148.00,Cash,Pune
+2025-08-03,C0197,23,Male,Storage Box,Home & Kitchen,2,12.99,25.98,Online,Mumbai
+2025-12-26,C0009,41,Male,USB-C Charger,Electronics,1,18.99,18.99,Cash,Bengaluru
+2025-01-31,C0072,36,Female,Snack Box,Grocery,3,9.99,29.97,Online,Mumbai
+2025-04-18,C0357,63,Female,Coffee Beans,Grocery,3,14.99,44.97,Card,Pune
+2025-07-10,C0305,28,Female,Wireless Headphones,Electronics,3,59.99,179.97,UPI,Hyderabad
+2025-02-10,C0077,66,Female,T-Shirt,Clothing,2,19.99,39.98,Cash,Delhi
+2025-08-29,C0007,36,Female,Hoodie,Clothing,1,44.50,44.50,Card,Chennai
+2025-11-06,C0349,47,Male,Shampoo,Beauty,1,11.50,11.50,UPI,Delhi
+2025-12-30,C0194,26,Male,Jeans,Clothing,2,49.99,99.98,Online,Chennai
+2025-04-23,C0161,59,Male,T-Shirt,Clothing,3,19.99,59.97,Online,Hyderabad
+2025-01-28,C0040,41,Male,Green Tea,Grocery,2,8.50,17.00,UPI,Chennai
+2025-05-03,C0159,30,Male,T-Shirt,Clothing,1,19.99,19.99,Card,Mumbai
+2025-05-18,C0024,21,Female,Wireless Headphones,Electronics,2,59.99,119.98,UPI,Chennai
+2025-07-02,C0201,64,Female,Perfume,Beauty,2,48.00,96.00,Cash,Bengaluru
+2025-06-19,C0013,55,Male,T-Shirt,Clothing,2,19.99,39.98,Online,Chennai
+2025-05-29,C0119,31,Male,Smart Watch,Electronics,1,129.00,129.00,Cash,Hyderabad
+2025-09-14,C0149,41,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Online,Chennai
+2025-12-31,C0311,22,Male,Perfume,Beauty,1,48.00,48.00,Online,Bengaluru
+2025-01-08,C0045,49,Female,USB-C Charger,Electronics,2,18.99,37.98,UPI,Hyderabad
+2025-06-01,C0037,29,Male,USB-C Charger,Electronics,2,18.99,37.98,Online,Delhi
+2025-08-31,C0064,54,Female,Green Tea,Grocery,3,8.50,25.50,UPI,Delhi
+2025-07-25,C0320,38,Female,Jeans,Clothing,1,49.99,49.99,Online,Coimbatore
+2025-05-15,C0126,62,Male,Coffee Beans,Grocery,2,14.99,29.98,Card,Hyderabad
+2025-02-23,C0115,42,Male,Jeans,Clothing,2,49.99,99.98,Card,Kochi
+2025-08-27,C0056,43,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Cash,Pune
+2025-06-18,C0360,65,Female,USB-C Charger,Electronics,5,18.99,94.95,UPI,Coimbatore
+2025-01-20,C0291,20,Other,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Chennai
+2025-07-05,C0012,66,Male,Perfume,Beauty,1,48.00,48.00,UPI,Delhi
+2025-11-22,C0153,63,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,Online,Mumbai
+2025-12-09,C0220,39,Male,Olive Oil,Grocery,4,12.50,50.00,UPI,Hyderabad
+2025-04-12,C0083,62,Female,Running Shoes,Clothing,2,74.00,148.00,Online,Chennai
+2025-10-15,C0316,27,Female,Shampoo,Beauty,1,11.50,11.50,UPI,Chennai
+2025-03-19,C0346,44,Female,Olive Oil,Grocery,2,12.50,25.00,Card,Coimbatore
+2025-03-06,C0097,44,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Pune
+2025-04-21,C0008,41,Male,Jeans,Clothing,5,49.99,249.95,Card,Delhi
+2025-06-07,C0234,44,Female,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Pune
+2025-09-25,C0220,41,Female,Snack Box,Grocery,1,9.99,9.99,Cash,Pune
+2025-07-15,C0051,23,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Bengaluru
+2025-11-29,C0320,52,Female,Smart Watch,Electronics,1,129.00,129.00,Online,Chennai
+2025-12-08,C0283,42,Female,Running Shoes,Clothing,1,74.00,74.00,Online,Bengaluru
+2025-06-29,C0203,18,Male,Green Tea,Grocery,1,8.50,8.50,Cash,Delhi
+2025-05-18,C0213,61,Female,Snack Box,Grocery,1,9.99,9.99,Online,Chennai
+2025-01-08,C0308,38,Female,USB-C Charger,Electronics,3,18.99,56.97,Online,Mumbai
+2025-10-12,C0027,69,Male,Olive Oil,Grocery,2,12.50,25.00,Online,Hyderabad
+2025-11-22,C0082,45,Female,Jeans,Clothing,1,49.99,49.99,Cash,Bengaluru
+2025-11-20,C0134,53,Female,Storage Box,Home & Kitchen,3,12.99,38.97,UPI,Mumbai
+2025-02-17,C0079,19,Male,Smart Watch,Electronics,1,129.00,129.00,Card,Pune
+2025-01-13,C0184,29,Female,Shampoo,Beauty,5,11.50,57.50,Cash,Delhi
+2025-04-10,C0194,67,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Card,Delhi
+2025-02-12,C0053,25,Female,Coffee Beans,Grocery,2,14.99,29.98,Card,Bengaluru
+2025-03-14,C0186,31,Female,Jeans,Clothing,1,49.99,49.99,Online,Chennai
+2025-07-31,C0161,58,Male,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Hyderabad
+2025-06-02,C0017,25,Other,Bluetooth Speaker,Electronics,2,39.50,79.00,UPI,Coimbatore
+2025-11-11,C0063,30,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Hyderabad
+2025-04-21,C0071,32,Female,Coffee Beans,Grocery,4,14.99,59.96,Cash,Delhi
+2025-05-21,C0151,47,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Pune
+2025-09-20,C0144,43,Female,Olive Oil,Grocery,1,12.50,12.50,UPI,Hyderabad
+2025-04-16,C0306,65,Female,Green Tea,Grocery,1,8.50,8.50,UPI,Bengaluru
+2025-11-07,C0324,70,Female,Jeans,Clothing,2,49.99,99.98,Cash,Chennai
+2025-09-19,C0331,51,Female,Running Shoes,Clothing,1,74.00,74.00,Card,Bengaluru
+2025-04-03,C0038,31,Male,Green Tea,Grocery,3,8.50,25.50,UPI,Hyderabad
+2025-06-10,C0110,47,Male,USB-C Charger,Electronics,2,18.99,37.98,UPI,Mumbai
+2025-10-15,C0053,53,Female,USB-C Charger,Electronics,2,18.99,37.98,Card,Pune
+2025-12-16,C0026,69,Male,Sunscreen,Beauty,3,15.99,47.97,Card,Delhi
+2025-08-04,C0197,33,Male,Smart Watch,Electronics,1,129.00,129.00,UPI,Chennai
+2025-11-26,C0207,20,Male,Face Moisturizer,Beauty,4,24.99,99.96,Card,Kochi
+2025-11-27,C0155,35,Female,Smart Watch,Electronics,1,129.00,129.00,UPI,Pune
+2025-02-10,C0153,62,Other,Bed Sheet Set,Home & Kitchen,3,54.00,162.00,Online,Bengaluru
+2025-07-11,C0006,26,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Pune
+2025-04-26,C0276,18,Male,Bluetooth Speaker,Electronics,2,39.50,79.00,Card,Delhi
+2025-01-23,C0314,68,Male,USB-C Charger,Electronics,1,18.99,18.99,UPI,Hyderabad
+2025-03-12,C0300,44,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Card,Mumbai
+2025-10-23,C0248,32,Female,Storage Box,Home & Kitchen,5,12.99,64.95,UPI,Bengaluru
+2025-06-30,C0106,62,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Online,Chennai
+2025-04-19,C0250,24,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Delhi
+2025-12-29,C0067,32,Male,Jeans,Clothing,4,49.99,199.96,Online,Coimbatore
+2025-11-14,C0085,61,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Card,Hyderabad
+2025-08-25,C0096,35,Female,Coffee Beans,Grocery,1,14.99,14.99,Online,Kochi
+2025-05-16,C0204,50,Female,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Chennai
+2025-08-14,C0217,30,Female,T-Shirt,Clothing,1,19.99,19.99,Online,Hyderabad
+2025-11-01,C0026,59,Female,Running Shoes,Clothing,3,74.00,222.00,Card,Mumbai
+2025-02-28,C0273,24,Female,Wireless Headphones,Electronics,2,59.99,119.98,Online,Pune
+2025-07-21,C0105,40,Male,USB-C Charger,Electronics,2,18.99,37.98,UPI,Chennai
+2025-02-18,C0353,33,Female,Smart Watch,Electronics,2,129.00,258.00,Card,Hyderabad
+2025-04-06,C0243,45,Female,Running Shoes,Clothing,2,74.00,148.00,Cash,Delhi
+2025-02-09,C0299,18,Female,Wireless Headphones,Electronics,2,59.99,119.98,Cash,Coimbatore
+2025-02-26,C0117,51,Male,Wireless Headphones,Electronics,2,59.99,119.98,Cash,Bengaluru
+2025-02-21,C0280,34,Male,Hoodie,Clothing,1,44.50,44.50,UPI,Kochi
+2025-08-23,C0266,67,Male,USB-C Charger,Electronics,1,18.99,18.99,Online,Bengaluru
+2025-05-19,C0113,60,Other,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Coimbatore
+2025-01-16,C0100,42,Male,Running Shoes,Clothing,1,74.00,74.00,UPI,Coimbatore
+2025-09-27,C0214,35,Female,USB-C Charger,Electronics,3,18.99,56.97,Card,Kochi
+2025-11-10,C0178,36,Female,Smart Watch,Electronics,2,129.00,258.00,Card,Coimbatore
+2025-12-17,C0286,60,Female,Bluetooth Speaker,Electronics,2,39.50,79.00,Online,Delhi
+2025-02-03,C0304,25,Female,Face Moisturizer,Beauty,1,24.99,24.99,UPI,Chennai
+2025-08-09,C0146,68,Male,T-Shirt,Clothing,2,19.99,39.98,Cash,Bengaluru
+2025-05-19,C0149,32,Female,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Mumbai
+2025-12-14,C0134,37,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Cash,Pune
+2025-12-14,C0070,44,Male,Olive Oil,Grocery,2,12.50,25.00,UPI,Delhi
+2025-02-13,C0224,24,Female,Running Shoes,Clothing,2,74.00,148.00,Online,Kochi
+2025-09-15,C0216,44,Female,Snack Box,Grocery,1,9.99,9.99,Card,Pune
+2025-02-15,C0192,26,Male,Sunscreen,Beauty,3,15.99,47.97,UPI,Chennai
+2025-07-21,C0266,47,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Chennai
+2025-05-19,C0149,54,Female,Coffee Beans,Grocery,2,14.99,29.98,UPI,Chennai
+2025-03-04,C0288,65,Male,Face Moisturizer,Beauty,2,24.99,49.98,Cash,Mumbai
+2025-12-12,C0004,69,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Bengaluru
+2025-02-04,C0054,48,Female,Wireless Headphones,Electronics,2,59.99,119.98,Online,Pune
+2025-01-29,C0121,52,Female,Snack Box,Grocery,1,9.99,9.99,Online,Bengaluru
+2025-08-10,C0337,33,Female,Wireless Headphones,Electronics,1,59.99,59.99,Cash,Coimbatore
+2025-09-03,C0342,35,Female,T-Shirt,Clothing,4,19.99,79.96,Card,Coimbatore
+2025-08-02,C0289,42,Female,Olive Oil,Grocery,1,12.50,12.50,UPI,Chennai
+2025-11-27,C0072,47,Male,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Delhi
+2025-01-05,C0108,40,Male,Snack Box,Grocery,2,9.99,19.98,Online,Bengaluru
+2025-03-31,C0236,63,Male,Bed Sheet Set,Home & Kitchen,2,54.00,108.00,Cash,Delhi
+2025-12-04,C0248,42,Male,Running Shoes,Clothing,1,74.00,74.00,Cash,Delhi
+2025-03-08,C0035,20,Female,Sunscreen,Beauty,2,15.99,31.98,Cash,Mumbai
+2025-02-19,C0119,67,Male,Perfume,Beauty,4,48.00,192.00,Cash,Bengaluru
+2025-03-31,C0033,21,Male,Perfume,Beauty,2,48.00,96.00,Card,Chennai
+2025-02-07,C0090,38,Female,Hoodie,Clothing,2,44.50,89.00,Online,Pune
+2025-03-10,C0348,36,Female,Olive Oil,Grocery,1,12.50,12.50,Cash,Pune
+2025-09-28,C0343,24,Female,Olive Oil,Grocery,2,12.50,25.00,Cash,Chennai
+2025-07-04,C0329,51,Male,Face Moisturizer,Beauty,1,24.99,24.99,Cash,Coimbatore
+2025-09-14,C0321,42,Male,Jeans,Clothing,3,49.99,149.97,Card,Hyderabad
+2025-09-22,C0277,39,Female,T-Shirt,Clothing,3,19.99,59.97,UPI,Delhi
+2025-07-19,C0148,22,Male,Face Moisturizer,Beauty,4,24.99,99.96,Cash,Delhi
+2025-07-24,C0135,59,Female,Coffee Maker,Home & Kitchen,2,69.99,139.98,UPI,Pune
+2025-05-14,C0169,66,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Mumbai
+2025-09-10,C0214,56,Male,Wireless Headphones,Electronics,2,59.99,119.98,Card,Coimbatore
+2025-03-08,C0116,59,Female,T-Shirt,Clothing,1,19.99,19.99,Online,Delhi
+2025-04-27,C0101,52,Male,Wireless Headphones,Electronics,1,59.99,59.99,Online,Chennai
+2025-10-10,C0221,62,Female,Storage Box,Home & Kitchen,3,12.99,38.97,Cash,Bengaluru
+2025-08-13,C0030,33,Female,USB-C Charger,Electronics,1,18.99,18.99,Card,Mumbai
+2025-07-31,C0128,70,Female,Face Moisturizer,Beauty,6,24.99,149.94,Card,Hyderabad
+2025-08-13,C0126,36,Female,Wireless Headphones,Electronics,1,59.99,59.99,Online,Coimbatore
+2025-12-03,C0106,49,Male,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Mumbai
+2025-08-16,C0335,33,Male,Sunscreen,Beauty,3,15.99,47.97,UPI,Kochi
+2025-12-24,C0319,49,Female,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Hyderabad
+2025-09-24,C0073,20,Other,Jeans,Clothing,1,49.99,49.99,Online,Coimbatore
+2025-02-28,C0154,70,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Delhi
+2025-11-09,C0023,32,Female,T-Shirt,Clothing,3,19.99,59.97,Cash,Pune
+2025-09-30,C0014,56,Male,USB-C Charger,Electronics,1,18.99,18.99,UPI,Delhi
+2025-10-30,C0223,45,Male,Wireless Headphones,Electronics,1,59.99,59.99,Card,Bengaluru
+2025-10-11,C0238,45,Male,Hoodie,Clothing,3,44.50,133.50,UPI,Hyderabad
+2025-07-15,C0350,35,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Cash,Delhi
+2025-06-22,C0338,34,Male,Coffee Maker,Home & Kitchen,2,69.99,139.98,Card,Bengaluru
+2025-06-07,C0228,47,Female,Bed Sheet Set,Home & Kitchen,3,54.00,162.00,Card,Coimbatore
+2025-01-19,C0210,21,Male,Green Tea,Grocery,2,8.50,17.00,Card,Delhi
+2025-11-09,C0142,34,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Mumbai
+2025-11-19,C0095,61,Male,Wireless Headphones,Electronics,1,59.99,59.99,Online,Kochi
+2025-01-22,C0133,34,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,UPI,Chennai
+2025-11-04,C0262,22,Female,T-Shirt,Clothing,1,19.99,19.99,UPI,Kochi
+2025-12-15,C0168,56,Male,Running Shoes,Clothing,4,74.00,296.00,UPI,Pune
+2025-11-30,C0023,36,Male,Hoodie,Clothing,3,44.50,133.50,Card,Bengaluru
+2025-11-08,C0261,68,Male,USB-C Charger,Electronics,2,18.99,37.98,UPI,Mumbai
+2025-07-13,C0333,23,Male,Coffee Beans,Grocery,3,14.99,44.97,Cash,Pune
+2025-10-03,C0267,46,Female,Face Moisturizer,Beauty,2,24.99,49.98,Cash,Delhi
+2025-05-05,C0060,62,Female,Hoodie,Clothing,1,44.50,44.50,Online,Kochi
+2025-02-10,C0310,32,Female,T-Shirt,Clothing,4,19.99,79.96,Online,Mumbai
+2025-10-19,C0209,61,Male,Olive Oil,Grocery,4,12.50,50.00,Cash,Delhi
+2025-05-27,C0076,54,Male,T-Shirt,Clothing,1,19.99,19.99,Cash,Hyderabad
+2025-08-21,C0241,65,Female,Wireless Headphones,Electronics,1,59.99,59.99,Card,Pune
+2025-01-13,C0199,45,Female,Face Moisturizer,Beauty,1,24.99,24.99,Online,Mumbai
+2025-12-31,C0303,56,Male,Hoodie,Clothing,3,44.50,133.50,Card,Bengaluru
+2025-07-01,C0224,36,Male,Green Tea,Grocery,2,8.50,17.00,Cash,Hyderabad
+2025-10-29,C0304,41,Male,Coffee Beans,Grocery,2,14.99,29.98,Online,Pune
+2025-06-14,C0153,49,Female,Hoodie,Clothing,5,44.50,222.50,Online,Delhi
+2025-06-15,C0108,45,Male,Jeans,Clothing,5,49.99,249.95,UPI,Bengaluru
+2025-06-27,C0115,28,Female,T-Shirt,Clothing,1,19.99,19.99,UPI,Bengaluru
+2025-04-29,C0261,66,Female,Shampoo,Beauty,1,11.50,11.50,Card,Mumbai
+2025-01-04,C0293,45,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Cash,Coimbatore
+2025-06-01,C0135,23,Male,Coffee Beans,Grocery,1,14.99,14.99,UPI,Bengaluru
+2025-07-01,C0260,39,Female,Olive Oil,Grocery,2,12.50,25.00,Card,Kochi
+2025-01-20,C0321,20,Male,Hoodie,Clothing,1,44.50,44.50,Card,Mumbai
+2025-03-12,C0078,49,Male,Water Bottle,Home & Kitchen,2,16.50,33.00,Online,Delhi
+2025-03-09,C0110,18,Female,Wireless Headphones,Electronics,4,59.99,239.96,Online,Mumbai
+2025-12-30,C0324,55,Female,Smart Watch,Electronics,2,129.00,258.00,UPI,Coimbatore
+2025-09-29,C0150,60,Female,Water Bottle,Home & Kitchen,3,16.50,49.50,Online,Kochi
+2025-10-06,C0148,44,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,UPI,Mumbai
+2025-12-06,C0059,40,Male,Jeans,Clothing,1,49.99,49.99,Cash,Coimbatore
+2025-09-08,C0111,68,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,UPI,Delhi
+2025-12-12,C0134,21,Female,Running Shoes,Clothing,3,74.00,222.00,Cash,Kochi
+2025-11-22,C0086,52,Female,Snack Box,Grocery,1,9.99,9.99,Card,Kochi
+2025-03-08,C0195,23,Male,Coffee Maker,Home & Kitchen,5,69.99,349.95,UPI,Kochi
+2025-10-11,C0102,28,Male,Wireless Headphones,Electronics,2,59.99,119.98,Online,Mumbai
+2025-05-29,C0128,18,Female,Snack Box,Grocery,1,9.99,9.99,Card,Bengaluru
+2025-09-14,C0013,32,Male,Running Shoes,Clothing,1,74.00,74.00,Cash,Chennai
+2025-05-20,C0139,23,Female,Perfume,Beauty,3,48.00,144.00,Online,Chennai
+2025-01-08,C0201,30,Male,Shampoo,Beauty,1,11.50,11.50,UPI,Kochi
+2025-08-06,C0052,34,Male,Coffee Maker,Home & Kitchen,1,69.99,69.99,Online,Pune
+2025-05-30,C0248,36,Male,Jeans,Clothing,4,49.99,199.96,Cash,Pune
+2025-01-09,C0056,46,Female,Green Tea,Grocery,4,8.50,34.00,Card,Pune
+2025-04-29,C0171,27,Male,Running Shoes,Clothing,2,74.00,148.00,Card,Bengaluru
+2025-10-15,C0207,57,Male,Smart Watch,Electronics,3,129.00,387.00,Cash,Chennai
+2025-09-10,C0019,38,Male,Hoodie,Clothing,2,44.50,89.00,Online,Chennai
+2025-05-18,C0334,33,Female,Perfume,Beauty,2,48.00,96.00,Online,Bengaluru
+2025-02-23,C0083,51,Male,T-Shirt,Clothing,1,19.99,19.99,Cash,Mumbai
+2025-08-13,C0088,58,Male,Coffee Beans,Grocery,1,14.99,14.99,Online,Hyderabad
+2025-10-08,C0151,64,Male,T-Shirt,Clothing,1,19.99,19.99,UPI,Kochi
+2025-11-11,C0105,69,Male,Olive Oil,Grocery,1,12.50,12.50,UPI,Delhi
+2025-08-30,C0070,28,Male,Bed Sheet Set,Home & Kitchen,4,54.00,216.00,Online,Chennai
+2025-06-12,C0003,37,Male,Jeans,Clothing,1,49.99,49.99,Cash,Bengaluru
+2025-10-03,C0081,22,Female,T-Shirt,Clothing,1,19.99,19.99,Cash,Kochi
+2025-11-18,C0219,55,Male,Bluetooth Speaker,Electronics,1,39.50,39.50,UPI,Pune
+2025-05-11,C0111,35,Female,Water Bottle,Home & Kitchen,2,16.50,33.00,Card,Hyderabad
+2025-09-25,C0304,56,Female,Storage Box,Home & Kitchen,1,12.99,12.99,Online,Mumbai
+2025-03-28,C0315,27,Female,Bluetooth Speaker,Electronics,6,39.50,237.00,Online,Chennai
+2025-06-15,C0218,60,Female,Wireless Headphones,Electronics,1,59.99,59.99,UPI,Bengaluru
+2025-05-04,C0182,37,Male,Storage Box,Home & Kitchen,3,12.99,38.97,UPI,Bengaluru
+2025-11-06,C0074,45,Male,Olive Oil,Grocery,4,12.50,50.00,Online,Delhi
+2025-12-17,C0188,47,Male,Smart Watch,Electronics,3,129.00,387.00,UPI,Pune
+2025-04-20,C0006,30,Female,Water Bottle,Home & Kitchen,1,16.50,16.50,Cash,Chennai
+2025-10-28,C0258,18,Male,T-Shirt,Clothing,4,19.99,79.96,Card,Delhi
+2025-11-25,C0141,58,Female,Coffee Maker,Home & Kitchen,5,69.99,349.95,Card,Coimbatore
